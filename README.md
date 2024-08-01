@@ -13,9 +13,8 @@ UTC+0800
 
 # Previous Logs
 
-The previous logs can be found in the `[yyyy]/[mm]/` directory.
-For example, the log for July 2024 can be found in the `2024/07/` directory.
-And the logs for this month are shown as below.
+Previous logs:
+- [2024](./2024/2024.md)
 
 # Logs of 2024-08
 
