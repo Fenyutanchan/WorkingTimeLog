@@ -7,10 +7,11 @@ From 2024-08-01 (yyyy-mm-dd), I will start to log my working time in this reposi
 UTC+0800
 - [x] 08:00 - 09:00
 - [x] 09:00 - 10:00
+- [x] 20:30 - 21:30
+- [x] 22:00 - 23:00
 
 # Previous Logs
 
-Previous logs:
 - [2024](./2024/2024.md)
 
 # Logs of 2024-08
