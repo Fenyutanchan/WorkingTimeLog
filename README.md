@@ -4,9 +4,13 @@ From 2024-08-01 (yyyy-mm-dd), I will start to log my working time in this reposi
 
 # Today 2024-08-09 (Friday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 5 hours:
 - [x] 00:00 - 01:00
 - [x] 10:00 - 11:00
+- [x] 20:30 - 21:30
+- [x] 21:30 - 22:30
+- [x] 22:30 - 23:30
 
 # Previous Logs
 
@@ -14,9 +18,20 @@ UTC+0800
 
 # Logs of 2024-08
 
+Total 34 hours:
+- [x] [2024-08-01 (Thursday)](#2024-08-01-thursday): 5 hours
+- [x] [2024-08-02 (Friday)](#2024-08-02-friday): 3 hours
+- [x] [2024-08-03 (Saturday)](#2024-08-03-saturday): 4 hours
+- [x] [2024-08-04 (Sunday)](#2024-08-04-sunday): 2 hours
+- [x] [2024-08-05 (Monday)](#2024-08-05-monday): 6 hours
+- [x] [2024-08-06 (Tuesday)](#2024-08-06-tuesday): 6 hours
+- [x] [2024-08-07 (Wednesday)](#2024-08-07-wednesday): 2 hours
+- [x] [2024-08-08 (Thursday)](#2024-08-08-thursday): 6 hours
+
 ## 2024-08-01 (Thursday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 5 hours:
 - [x] 09:00 - 10:00
 - [x] 10:00 - 11:00
 - [x] 15:00 - 16:00
@@ -25,14 +40,16 @@ UTC+0800
 
 ## 2024-08-02 (Friday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 3 hours:
 - [x] 07:00 - 08:00
 - [x] 08:00 - 09:00
 - [x] 09:00 - 10:00
 
 ## 2024-08-03 (Saturday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 4 hours:
 - [x] 08:00 - 09:00
 - [x] 09:00 - 10:00
 - [x] 20:30 - 21:30
@@ -40,13 +57,15 @@ UTC+0800
 
 ## 2024-08-04 (Sunday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 2 hours:
 - [x] 09:00 - 10:00
 - [x] 10:30 - 11:30
 
 ## 2024-08-05 (Monday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 6 hours:
 - [x] 10:00 - 11:00
 - [x] 11:00 - 12:00
 - [x] 13:30 - 14:30
@@ -56,7 +75,8 @@ UTC+0800
 
 ## 2024-08-06 (Tuesday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 6 hours:
 - [x] 08:00 - 09:00
 - [x] 09:30 - 10:30
 - [x] 10:30 - 11:30
@@ -66,13 +86,15 @@ UTC+0800
 
 ## 2024-08-07 (Wednesday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 2 hours:
 - [x] 10:30 - 11:30
 - [x] 13:30 - 14:30
 
 ## 2024-08-08 (Thursday)
 
-UTC+0800
+Timezone: UTC+0800
+Total 6 hours:
 - [x] 09:00 - 10:00
 - [x] 10:00 - 11:00
 - [x] 13:00 - 14:00
