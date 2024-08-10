@@ -2,15 +2,11 @@
 
 From 2024-08-01 (yyyy-mm-dd), I will start to log my working time in this repository.
 
-# Today 2024-08-09 (Friday)
+# Today 2024-08-10 (Staurday)
 
-Timezone: UTC+0800
-Total 5 hours:
-- [x] 00:00 - 01:00
-- [x] 10:00 - 11:00
-- [x] 20:30 - 21:30
-- [x] 21:30 - 22:30
-- [x] 22:30 - 23:30
+Total 2 hours (UTC+0800):
+- [x] 09:30 - 10:30
+- [x] 10:30 - 11:30
 
 # Previous Logs
 
@@ -18,7 +14,7 @@ Total 5 hours:
 
 # Logs of 2024-08
 
-Total 34 hours:
+Total 39 hours:
 - [x] [2024-08-01 (Thursday)](#2024-08-01-thursday): 5 hours
 - [x] [2024-08-02 (Friday)](#2024-08-02-friday): 3 hours
 - [x] [2024-08-03 (Saturday)](#2024-08-03-saturday): 4 hours
@@ -27,11 +23,11 @@ Total 34 hours:
 - [x] [2024-08-06 (Tuesday)](#2024-08-06-tuesday): 6 hours
 - [x] [2024-08-07 (Wednesday)](#2024-08-07-wednesday): 2 hours
 - [x] [2024-08-08 (Thursday)](#2024-08-08-thursday): 6 hours
+- [x] [2024-08-09 (Friday)](#2024-08-09-friday): 5 hours
 
 ## 2024-08-01 (Thursday)
 
-Timezone: UTC+0800
-Total 5 hours:
+Total 5 hours (UTC+0800):
 - [x] 09:00 - 10:00
 - [x] 10:00 - 11:00
 - [x] 15:00 - 16:00
@@ -40,16 +36,14 @@ Total 5 hours:
 
 ## 2024-08-02 (Friday)
 
-Timezone: UTC+0800
-Total 3 hours:
+Total 3 hours (UTC+0800):
 - [x] 07:00 - 08:00
 - [x] 08:00 - 09:00
 - [x] 09:00 - 10:00
 
 ## 2024-08-03 (Saturday)
 
-Timezone: UTC+0800
-Total 4 hours:
+Total 4 hours (UTC+0800):
 - [x] 08:00 - 09:00
 - [x] 09:00 - 10:00
 - [x] 20:30 - 21:30
@@ -57,15 +51,13 @@ Total 4 hours:
 
 ## 2024-08-04 (Sunday)
 
-Timezone: UTC+0800
-Total 2 hours:
+Total 2 hours (UTC+0800):
 - [x] 09:00 - 10:00
 - [x] 10:30 - 11:30
 
 ## 2024-08-05 (Monday)
 
-Timezone: UTC+0800
-Total 6 hours:
+Total 6 hours (UTC+0800):
 - [x] 10:00 - 11:00
 - [x] 11:00 - 12:00
 - [x] 13:30 - 14:30
@@ -75,8 +67,7 @@ Total 6 hours:
 
 ## 2024-08-06 (Tuesday)
 
-Timezone: UTC+0800
-Total 6 hours:
+Total 6 hours (UTC+0800):
 - [x] 08:00 - 09:00
 - [x] 09:30 - 10:30
 - [x] 10:30 - 11:30
@@ -86,18 +77,25 @@ Total 6 hours:
 
 ## 2024-08-07 (Wednesday)
 
-Timezone: UTC+0800
-Total 2 hours:
+Total 2 hours (UTC+0800):
 - [x] 10:30 - 11:30
 - [x] 13:30 - 14:30
 
 ## 2024-08-08 (Thursday)
 
-Timezone: UTC+0800
-Total 6 hours:
+Total 6 hours (UTC+0800):
 - [x] 09:00 - 10:00
 - [x] 10:00 - 11:00
 - [x] 13:00 - 14:00
 - [x] 16:00 - 17:00
 - [x] 21:30 - 22:30
 - [x] 23:00 - 24:00
+
+## 2024-08-09 (Friday)
+
+Total 5 hours (UTC+0800):
+- [x] 00:00 - 01:00
+- [x] 10:00 - 11:00
+- [x] 20:30 - 21:30
+- [x] 21:30 - 22:30
+- [x] 22:30 - 23:30
