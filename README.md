@@ -2,12 +2,12 @@
 
 From 2024-08-01 (yyyy-mm-dd), I will start to log my working time in this repository.
 
-# Today 2024-08-12 (Monday)
+# Today 2024-08-13 (Tuesday)
 
 Total 3 hours (UTC+0800):
-- [x] 09:00 - 10:00
 - [x] 10:30 - 11:30
-- [x] 15:30 - 16:30
+- [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
 
 # Previous Logs
 
@@ -15,7 +15,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2024-08
 
-Total 45 hours:
+Total 48 hours:
 - [x] [2024-08-01 (Thursday)](#2024-08-01-thursday): 5 hours
 - [x] [2024-08-02 (Friday)](#2024-08-02-friday): 3 hours
 - [x] [2024-08-03 (Saturday)](#2024-08-03-saturday): 4 hours
@@ -27,6 +27,7 @@ Total 45 hours:
 - [x] [2024-08-09 (Friday)](#2024-08-09-friday): 5 hours
 - [x] [2024-08-10 (Saturday)](#2024-08-10-saturday): 3 hours
 - [x] [2024-08-11 (Sunday)](#2024-08-11-sunday): 3 hours
+- [x] [2024-08-12 (Monday)](#2024-08-12-monday): 3 hours
 
 ## 2024-08-01 (Thursday)
 
@@ -116,3 +117,10 @@ Total 3 hours (UTC+0800):
 - [x] 10:20 - 11:20
 - [x] 15:00 - 16:00
 - [x] 16:45 - 17:45
+
+# 2024-08-12 (Monday)
+
+Total 3 hours (UTC+0800):
+- [x] 09:00 - 10:00
+- [x] 10:30 - 11:30
+- [x] 15:30 - 16:30
