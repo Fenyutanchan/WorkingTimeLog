@@ -4,10 +4,14 @@ From 2024-08-01 (yyyy-mm-dd), I will start to log my working time in this reposi
 
 # Today 2024-08-16 (Friday)
 
-Total 3 hours (UTC+0800):
+Total 7 hours (UTC+0800):
 - [x] 09:00 - 10:00
 - [x] 10:00 - 11:00
 - [x] 11:30 - 12:30
+- [x] 14:30 - 15:30
+- [x] 15:30 - 16:30
+- [x] 20:20 - 21:20
+- [x] 21:20 - 22:20
 
 # Previous Logs
 
