@@ -1,18 +1,16 @@
 # My Working Time Log Book
 
-From 2024-08-01 (yyyy-mm-dd), I started to log my working time in this repository.
+I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-09-13 (Friday)
+# Today 2024-09-14 (Saturday)
 
-Total 4 hours (UTC+0800):
-- [x] 09:00 - 10:00
+Total 2 hours (UTC+0800):
 - [x] 10:00 - 11:00
-- [x] 15:00 - 16:00
-- [x] 21:00 - 22:00
+- [x] 11:00 - 12:00
 
 # Weekday Working Time Template
 
-From 2024-09-16 (Monday), the following template will be used for the weekday.
+Starting from 2024-09-16 (Monday), the following template will be used for weekdays.
 
 - [ ] 09:00 - 10:00
 
@@ -31,7 +29,7 @@ From 2024-09-16 (Monday), the following template will be used for the weekday.
 
 # Logs of 2024-09
 
-Total 27 hours:
+Total 31 hours:
 - [x] [2024-09-01 (Sun.)](#2024-09-01-sunday): 3 hours
 - [x] [2024-09-02 (Mon.)](#2024-09-02-monday): 3 hours
 - [ ] [2024-09-03 (Tue.)](#2024-09-03-tuesday): 0 hours
@@ -44,6 +42,7 @@ Total 27 hours:
 - [ ] [2024-09-10 (Tue.)](#2024-09-10-tuesday): 0 hours
 - [x] [2024-09-11 (Wed.)](#2024-09-11-wednesday): 3 hours
 - [x] [2024-09-12 (Thu.)](#2024-09-12-thursday): 4 hours
+- [x] [2024-09-13 (Fri.)](#2024-09-13-friday): 4 hours
 
 ## 2024-09-01 (Sunday)
 
@@ -124,3 +123,11 @@ Total 4 hours (UTC+0800):
 - [x] 11:00 - 12:00
 - [x] 21:00 - 22:00
 - [x] 22:00 - 23:00
+
+## 2024-09-13 (Friday)
+
+Total 4 hours (UTC+0800):
+- [x] 09:00 - 10:00
+- [x] 10:00 - 11:00
+- [x] 15:00 - 16:00
+- [x] 21:00 - 22:00
