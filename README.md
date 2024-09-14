@@ -4,24 +4,11 @@ I started logging my working hours in this repository on 2024-08-01.
 
 # Today 2024-09-14 (Saturday)
 
-Total 2 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 - [x] 10:00 - 11:00
 - [x] 11:00 - 12:00
-
-# Weekday Working Time Template
-
-Starting from 2024-09-16 (Monday), the following template will be used for weekdays.
-
-- [ ] 09:00 - 10:00
-
-- [ ] 13:00 - 14:00
-- [ ] 14:00 - 15:00
-- [ ] 15:00 - 16:00
-- [ ] 16:00 - 17:00
-
-- [ ] 19:00 - 20:00
-- [ ] 20:00 - 21:00
-- [ ] 21:00 - 22:00
+- [x] 14:30 - 15:30
+- [x] 22:00 - 23:00
 
 # Previous Logs
 
