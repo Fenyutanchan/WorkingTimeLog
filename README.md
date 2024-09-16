@@ -2,13 +2,23 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-09-15 (Sunday)
+# Today 2024-09-16 (Monday)
 
-Total 4 hours (UTC+0800):
-- [x] 09:20 - 10:20
-- [x] 10:20 - 11:20
-- [x] 14:00 - 15:00
-- [x] 15:00 - 16:00
+Total 5 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 09:00 - 10:00
+
+- Afternoon (4 hours):
+  - [x] 13:00 - 14:00
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (0 hours):
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
+  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -16,7 +26,7 @@ Total 4 hours (UTC+0800):
 
 # Logs of 2024-09
 
-Total 35 hours:
+Total 39 hours:
 - [x] [2024-09-01 (Sun.)](#2024-09-01-sunday): 3 hours
 - [x] [2024-09-02 (Mon.)](#2024-09-02-monday): 3 hours
 - [ ] [2024-09-03 (Tue.)](#2024-09-03-tuesday): 0 hours
@@ -31,6 +41,7 @@ Total 35 hours:
 - [x] [2024-09-12 (Thu.)](#2024-09-12-thursday): 4 hours
 - [x] [2024-09-13 (Fri.)](#2024-09-13-friday): 4 hours
 - [x] [2024-09-14 (Sat.)](#2024-09-14-saturday): 4 hours
+- [x] [2024-09-15 (Sun.)](#2024-09-15-sunday): 4 hours
 
 ## 2024-09-01 (Sunday)
 
@@ -127,3 +138,11 @@ Total 4 hours (UTC+0800):
 - [x] 11:00 - 12:00
 - [x] 14:30 - 15:30
 - [x] 22:00 - 23:00
+
+## 2024-09-15 (Sunday)
+
+Total 4 hours (UTC+0800):
+- [x] 09:20 - 10:20
+- [x] 10:20 - 11:20
+- [x] 14:00 - 15:00
+- [x] 15:00 - 16:00

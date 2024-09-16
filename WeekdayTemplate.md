@@ -1,7 +1,7 @@
 Weekday Working Time Template
 ===
 
-Starting from 2024-09-16 (Monday), the following template will be used for weekdays.
+Started on 2024-09-16 (Monday).
 
 ## yyyy-mm-dd (What-day)
 
