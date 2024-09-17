@@ -4,7 +4,7 @@ I started logging my working hours in this repository on 2024-08-01.
 
 # Today 2024-09-16 (Monday)
 
-Total 5 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
 - Morning (1 hour):
   - [x] 09:00 - 10:00
@@ -15,10 +15,10 @@ Total 5 hours (UTC+0800):
   - [x] 15:00 - 16:00
   - [x] 16:00 - 17:00
 
-- Evening (0 hours):
+- Evening (1 hour):
   - [ ] 19:00 - 20:00
   - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
+  - [x] 21:00 - 22:00
 
 # Previous Logs
 
