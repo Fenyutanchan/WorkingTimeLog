@@ -1,9 +1,7 @@
 Weekday Working Time Template
 ===
 
-Started on 2024-09-16 (Monday).
-
-## Normal-Day yyyy-mm-dd (What-day)
+## [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day) yyyy-mm-dd (What-day)
 
 Total 0 hours (UTC+0800):
 
@@ -19,7 +17,7 @@ Total 0 hours (UTC+0800):
   - [ ] 19:00 - 20:00
   - [ ] 20:00 - 21:00
 
-## Free-Day yyyy-mm-dd (What-day)
+## [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day) yyyy-mm-dd (What-day)
 
 Total 0 hours (UTC+0800): (No more than 4 hours)
 
