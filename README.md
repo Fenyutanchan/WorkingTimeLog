@@ -2,9 +2,9 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day) Today 2024-09-17 (Tuesday)
+# [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day) Today 2024-09-18 (Wednesday)
 
-Total 5 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
 - Morning (2 hours):
   - [x] 10:00 - 11:00
@@ -15,8 +15,8 @@ Total 5 hours (UTC+0800):
   - [x] 15:30 - 16:30
   - [x] 16:30 - 17:30
 
-- Evening (0 hours):
-  - [ ] 19:00 - 20:00
+- Evening (1 hour):
+  - [x] 21:20 - 22:20
 
 # Previous Logs
 
