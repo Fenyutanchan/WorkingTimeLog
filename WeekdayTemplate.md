@@ -3,7 +3,7 @@ Weekday Working Time Template
 
 ## [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day) yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800):
+Total 0 hours (UTC+0800): (About 6 hours)
 
 - Morning (0 hours):
   - [ ] 09:00 - 10:00
@@ -19,6 +19,9 @@ Total 0 hours (UTC+0800):
 
 ## [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day) yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800): (No more than 4 hours)
+Total 0 hours (UTC+0800): (About 4 hours)
 
+- [ ] hh:mm - hh:mm
+- [ ] hh:mm - hh:mm
+- [ ] hh:mm - hh:mm
 - [ ] hh:mm - hh:mm
