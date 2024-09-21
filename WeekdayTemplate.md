@@ -1,9 +1,9 @@
 Weekday Working Time Template
 ===
 
-## [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day) yyyy-mm-dd (What-day)
+## Normal yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800): (About 6 hours)
+Total 0 hours (UTC+0800): ($[6, \infty)$ hours)
 
 - Morning (0 hours):
   - [ ] 09:00 - 10:00
@@ -17,11 +17,16 @@ Total 0 hours (UTC+0800): (About 6 hours)
   - [ ] 19:00 - 20:00
   - [ ] 20:00 - 21:00
 
-## [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day) yyyy-mm-dd (What-day)
+## Free yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800): (About 4 hours)
+Total 0 hours (UTC+0800): ($[4, 6)$ hours)
 
 - [ ] hh:mm - hh:mm
 - [ ] hh:mm - hh:mm
 - [ ] hh:mm - hh:mm
+- [ ] hh:mm - hh:mm
+
+## Holiday yyyy-mm-dd (What-day)
+
+Total 0 hours (UTC+0800): ($[0, 4)$ hours)
 - [ ] hh:mm - hh:mm

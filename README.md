@@ -2,24 +2,23 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-09-20 (Friday)
+# Today 2024-09-21 (Saturday)
 
 Template: [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day)
+Total 3 hours (UTC+0800):
 
-Total 4 hours (UTC+0800):
+- Morning (3 hours):
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
 
-- Morning (1 hour):
-  - [x] 10:30 - 11:30
-
-- Afternoon (3 hours):
-  - [x] 13:30 - 14:30
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
   - [ ] 19:00 - 20:00
-  - [ ] 20:00 - 21:00
-
 
 # Previous Logs
 
@@ -27,7 +26,7 @@ Total 4 hours (UTC+0800):
 
 # Logs of 2024-09
 
-Total 61 hours:
+Total 66 hours:
 - [x] [2024-09-01 (Sun.)](#2024-09-01-sunday): 3 hours
 - [x] [2024-09-02 (Mon.)](#2024-09-02-monday): 3 hours
 - [ ] [2024-09-03 (Tue.)](#2024-09-03-tuesday): 0 hours
@@ -47,6 +46,7 @@ Total 61 hours:
 - [x] [2024-09-17 (Tue.)](#2024-09-17-tuesday): 6 hours
 - [x] [2024-09-18 (Wed.)](#2024-09-18-wednesday): 6 hours
 - [x] [2024-09-19 (Thu.)](#2024-09-19-thursday): 4 hours
+- [x] [2024-09-20 (Fri.)](#2024-09-20-friday): 5 hours
 
 ## 2024-09-01 (Sunday)
 
@@ -211,4 +211,14 @@ Total 4 hours (UTC+0800):
 - [x] 10:30 - 11:30
 - [x] 11:30 - 12:30
 - [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
+
+## 2024-09-20 (Friday)
+
+Template: [Free](./WeekdayTemplate.md#free-day-yyyy-mm-dd-what-day)
+Total 5 hours (UTC+0800):
+- [x] 10:30 - 11:30
+- [x] 13:30 - 14:30
+- [x] 15:30 - 16:30
+- [x] 16:30 - 17:30
 - [x] 22:00 - 23:00
