@@ -2,23 +2,16 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-09-22 (Sunday)
+# Today 2024-09-23 (Monday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day)
+Template: [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day)
 
-Total 6 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
-- Morning (1 hour):
-  - [x] 09:20 - 10:20
-
-- Afternoon (3 hours):
-  - [x] 14:00 - 15:00
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
-
-- Evening (2 hours):
-  - [x] 20:00 - 21:00
-  - [x] 21:00 - 22:00
+- [x] 09:00 - 10:00
+- [x] 20:00 - 21:00
+- [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
 
 # Previous Logs
 
@@ -155,7 +148,7 @@ Total 4 hours (UTC+0800):
 
 ## 2024-09-16 (Monday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day)
+Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 
 Total 6 hours (UTC+0800):
 
@@ -173,7 +166,7 @@ Total 6 hours (UTC+0800):
 
 ##  2024-09-17 (Tuesday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day)
+Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 
 Total 6 hours (UTC+0800):
 
@@ -191,7 +184,7 @@ Total 6 hours (UTC+0800):
 
 ## 2024-09-18 (Wednesday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day)
+Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 
 Total 6 hours (UTC+0800):
 
@@ -209,7 +202,7 @@ Total 6 hours (UTC+0800):
 
 ## 2024-09-19 (Thursday)
 
-Template: [Free](./WeekdayTemplate.md#free-day-yyyy-mm-dd-what-day)
+Template: [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day)
 
 Total 4 hours (UTC+0800):
 
@@ -220,7 +213,7 @@ Total 4 hours (UTC+0800):
 
 ## 2024-09-20 (Friday)
 
-Template: [Free](./WeekdayTemplate.md#free-day-yyyy-mm-dd-what-day)
+Template: [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day)
 
 Total 5 hours (UTC+0800):
 - [x] 10:30 - 11:30
@@ -231,7 +224,7 @@ Total 5 hours (UTC+0800):
 
 ## 2024-09-21 (Saturday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-day-yyyy-mm-dd-what-day)
+Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 
 Total 9 hours (UTC+0800):
 
@@ -249,3 +242,21 @@ Total 9 hours (UTC+0800):
   - [x] 20:00 - 21:00
   - [x] 21:00 - 22:00
   - [x] 23:00 - 24:00
+
+## 2024-09-22 (Sunday)
+
+Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
+
+Total 6 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 09:20 - 10:20
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (2 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00

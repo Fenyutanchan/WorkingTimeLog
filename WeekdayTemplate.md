@@ -3,7 +3,7 @@ Weekday Working Time Template
 
 ## Normal yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800): ($[6, \infty)$ hours)
+Total 0 hours (UTC+0800): ([6, 24] hours)
 
 - Morning (0 hours):
   - [ ] 09:00 - 10:00
@@ -19,7 +19,7 @@ Total 0 hours (UTC+0800): ($[6, \infty)$ hours)
 
 ## Free yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800): ($[4, 6)$ hours)
+Total 0 hours (UTC+0800): ([4, 6) hours)
 
 - [ ] hh:mm - hh:mm
 - [ ] hh:mm - hh:mm
@@ -28,5 +28,5 @@ Total 0 hours (UTC+0800): ($[4, 6)$ hours)
 
 ## Holiday yyyy-mm-dd (What-day)
 
-Total 0 hours (UTC+0800): ($[0, 4)$ hours)
+Total 0 hours (UTC+0800): ([0, 4) hours)
 - [ ] hh:mm - hh:mm
