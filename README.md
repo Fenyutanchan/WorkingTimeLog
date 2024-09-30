@@ -6,15 +6,15 @@ I started logging my working hours in this repository on 2024-08-01.
 
 Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 
-Total 1 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
-- Morning (1 hours):
+- Morning (2 hours):
   - [x] 08:40 - 09:40
   - [x] 09:40 - 10:40
 
-- Afternoon (0 hours):
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+- Afternoon (2 hours):
+  - [x] 15:20 - 16:20
+  - [x] 16:20 - 17:20
 
 - Evening (0 hours):
   - [ ] 20:30 - 21:30
