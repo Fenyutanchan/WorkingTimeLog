@@ -8,8 +8,8 @@ Template: [Holiday](./WeekdayTemplate.md#holiday-yyyy-mm-dd-what-day)
 
 Note: Happy National Day!
 
-Total 0 hours (UTC+0800):
-- [ ] 00:00 - 24:00
+Total 1 hour (UTC+0800):
+- [x] 14:45 - 15:45
 
 # Previous Logs
 
