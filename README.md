@@ -9,23 +9,23 @@ Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 Check Status:
 - Morning (2 hours):
   - [x] Check-in: 09:00
-  - [ ] Check-out: 11:00
+  - [x] Check-out: 11:00
 - Afternoon (4 hours):
-  - [ ] Check-in: 14:00
-  - [ ] Check-out: 18:00
+  - [x] Check-in: 14:00
+  - [x] Check-out: 18:00
 
-Total 0 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
-- Morning (0 hour):
-  - [ ] 10:00 - 11:00
+- Morning (1 hour):
+  - [x] 10:00 - 11:00
 
-- Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
-  - [ ] 17:00 - 18:00
+- Afternoon (3 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
 
 - Evening (0 hours):
+  - [ ] 20:00 - 21:00
   - [ ] 21:00 - 22:00
 
 # Previous Logs
