@@ -2,35 +2,31 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-10 (Thursday)
+# Today 2024-10-11 (Friday)
 
 Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
 
 Check Status (UTC+0800):
-- Morning (3 hours):
-  - [x] Check-in: 08:30
-  - [x] Check-out: 11:30
+- Morning (1 hour):
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 11:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 8 hours (UTC+0800):
+Total 1 hour (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 08:30 - 09:30
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
+- Morning (1 hour):
+  - [ ] 10:00 - 11:00
 
-- Afternoon (5 hours):
-  - [x] 14:30 - 15:30
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
-  - [x] 17:30 - 18:30
-  - [x] 18:30 - 19:30
+- Afternoon (0 hours):
+  - [ ] 14:30 - 15:30
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
+  - [ ] 17:30 - 18:30
 
-- Evening (2 hours):
-  - [x] 20:30 - 21:30
-  - [x] 21:30 - 22:30
+- Evening (0 hours):
+  - [ ] 20:30 - 21:30
 
 # Previous Logs
 
@@ -38,7 +34,7 @@ Total 8 hours (UTC+0800):
 
 # Logs of 2024-10
 
-Total 36 hours:
+Total 46 hours:
 
 - [x] [2024-10-01 (Tue.)](#2024-10-01-tuesday): 1 hour
 - [x] [2024-10-02 (Wed.)](#2024-10-02-wednesday): 4 hours
@@ -49,6 +45,7 @@ Total 36 hours:
 - [x] [2024-10-07 (Mon.)](#2024-10-07-monday): 2 hours
 - [x] [2024-10-08 (Tue.)](#2024-10-08-tuesday): 9 hours
 - [x] [2024-10-09 (Wed.)](#2024-10-09-wednesday): 6 hours
+- [x] [2024-10-10 (Thu.)](#2024-10-10-thursday): 10 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -185,6 +182,36 @@ Total 6 hours (UTC+0800):
   - [x] 14:30 - 15:30
   - [x] 15:30 - 16:30
   - [x] 16:30 - 17:30
+
+- Evening (2 hours):
+  - [x] 20:30 - 21:30
+  - [x] 21:30 - 22:30
+
+## 2024-10-10 (Thursday)
+
+Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
+
+Check Status (UTC+0800):
+- Morning (3 hours):
+  - [x] Check-in: 08:30
+  - [x] Check-out: 11:30
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 10 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 08:30 - 09:30
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+
+- Afternoon (5 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+  - [x] 17:30 - 18:30
+  - [x] 18:30 - 19:30
 
 - Evening (2 hours):
   - [x] 20:30 - 21:30
