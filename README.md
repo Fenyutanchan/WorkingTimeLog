@@ -2,23 +2,15 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-11 (Friday)
+# Today 2024-10-13 (Sunday)
 
-Template: [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day)
+Template: [Free](Templates/Free-v2.md#free-template-with-note)
 
-Check Status (UTC+0800):
-- Morning (1 hour):
-  - Oversleeping: 08:00 - 10:00
-  - [x] Check-in: 10:00
-  - [x] Check-out: 11:00
-- Afternoon (2 hours):
-  - Bank visiting: 14:00 - 15:00
-  - [x] Check-in: 15:30
-  - [x] Check-out: 17:30
+Note: Weekend!
 
 Total 4 hours (UTC+0800):
-- [x] 10:00 - 11:00
-- [x] 15:30 - 16:30
+- [x] 11:00 - 12:00
+- [x] 15:00 - 16:00
 - [x] 21:00 - 22:00
 - [x] 22:00 - 23:00
 
@@ -28,7 +20,7 @@ Total 4 hours (UTC+0800):
 
 # Logs of 2024-10
 
-Total 46 hours:
+Total 53 hours:
 
 - [x] [2024-10-01 (Tue.)](#2024-10-01-tuesday): 1 hour
 - [x] [2024-10-02 (Wed.)](#2024-10-02-wednesday): 4 hours
@@ -40,10 +32,12 @@ Total 46 hours:
 - [x] [2024-10-08 (Tue.)](#2024-10-08-tuesday): 9 hours
 - [x] [2024-10-09 (Wed.)](#2024-10-09-wednesday): 6 hours
 - [x] [2024-10-10 (Thu.)](#2024-10-10-thursday): 10 hours
+- [x] [2024-10-11 (Fri.)](#2024-10-11-friday): 4 hours
+- [x] [2024-10-12 (Sat.)](#2024-10-12-saturday): 3 hours
 
 ## 2024-10-01 (Tuesday)
 
-Template: [Holiday](./WeekdayTemplate.md#holiday-yyyy-mm-dd-what-day)
+Template: [Holiday](Templates/Holiday-v2.md)
 
 Note: Happy National Day!
 
@@ -52,7 +46,7 @@ Total 1 hour (UTC+0800):
 
 ## 2024-10-02 (Wednesday)
 
-Template: [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day)
+Template: [Free](Templates/Free-v2.md#free-template-with-note)
 
 Note: Happy National Day!
 
@@ -64,7 +58,7 @@ Total 4 hours (UTC+0800):
 
 ## 2024-10-03 (Thursday)
 
-Template: [Holiday](./WeekdayTemplate.md#holiday-yyyy-mm-dd-what-day)
+Template: [Holiday](Templates/Holiday-v2.md)
 
 Note: Happy National Day!
 
@@ -74,7 +68,7 @@ Total 2 hours (UTC+0800):
 
 ## 2024-10-04 (Friday)
 
-Template: [Holiday](./WeekdayTemplate.md#holiday-yyyy-mm-dd-what-day)
+Template: [Holiday](Templates/Holiday-v2.md)
 
 Note: Happy National Day!
 
@@ -84,7 +78,7 @@ Total 2 hours (UTC+0800):
 
 ## 2024-10-05 (Saturday)
 
-Template: [Free](./WeekdayTemplate.md#free-yyyy-mm-dd-what-day)
+Template: [Free](Templates/Free-v2.md#free-template-with-note)
 
 Note: Happy National Day!
 
@@ -96,7 +90,7 @@ Total 4 hours (UTC+0800):
 
 ## 2024-10-06 (Sunday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
 Note: Happy National Day!
 
@@ -116,7 +110,7 @@ Total 6 hours (UTC+0800):
 
 ## 2024-10-07 (Monday)
 
-Template: [Holiday](./WeekdayTemplate.md#holiday-yyyy-mm-dd-what-day)
+Template: [Holiday](Templates/Holiday-v2.md)
 
 Note: Happy National Day!
 
@@ -127,7 +121,7 @@ Total 2 hours (UTC+0800):
 
 ## 2024-10-08 (Tuesday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
@@ -157,7 +151,7 @@ Total 9 hours (UTC+0800):
 
 ## 2024-10-09 (Wednesday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 - Morning (2 hours):
@@ -183,9 +177,10 @@ Total 6 hours (UTC+0800):
 
 ## 2024-10-10 (Thursday)
 
-Template: [Normal](./WeekdayTemplate.md#normal-yyyy-mm-dd-what-day)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
+
 - Morning (3 hours):
   - [x] Check-in: 08:30
   - [x] Check-out: 11:30
@@ -210,3 +205,35 @@ Total 10 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 20:30 - 21:30
   - [x] 21:30 - 22:30
+
+## 2024-10-11 (Friday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (1 hour):
+  - Oversleeping: 08:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 11:00
+- Afternoon (2 hours):
+  - Bank visiting: 14:00 - 15:00
+  - [x] Check-in: 15:30
+  - [x] Check-out: 17:30
+
+Total 4 hours (UTC+0800):
+- [x] 10:00 - 11:00
+- [x] 15:30 - 16:30
+- [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
+
+## 2024-10-12 (Saturday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 3 hours (UTC+0800):
+- [x] 10:20 - 11:20
+- [x] 11:20 - 12:20
+- [x] 17:30 - 18:30
