@@ -2,29 +2,28 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-15 (Tuesday)
+# Today 2024-10-16 (Wednesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [x] Check-in: 08:30
-  - [x] Check-out: 11:30
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:30
-  - [x] Check-out: 18:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 5 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 08:30 - 09:30
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
 
-- Afternoon (2 hours):
-  - [x] 15:40 - 16:40
-  - [x] 16:40 - 17:40
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
   - [ ] 19:00 - 20:00
@@ -36,7 +35,7 @@ Total 5 hours (UTC+0800):
 
 # Logs of 2024-10
 
-Total 61 hours:
+Total 67 hours:
 
 - [x] [2024-10-01 (Tue.)](#2024-10-01-tuesday): 1 hour
 - [x] [2024-10-02 (Wed.)](#2024-10-02-wednesday): 4 hours
@@ -52,6 +51,7 @@ Total 61 hours:
 - [x] [2024-10-12 (Sat.)](#2024-10-12-saturday): 3 hours
 - [x] [2024-10-13 (Sun.)](#2024-10-13-sunday): 4 hours
 - [x] [2024-10-14 (Mon.)](#2024-10-14-monday): 4 hours
+- [x] [2024-10-15 (Tue.)](#2024-10-15-tuesday): 6 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -288,3 +288,30 @@ Total 4 hours (UTC+0800):
 - [x] 21:00 - 22:00
 - [x] 22:00 - 23:00
 - [x] 23:00 - 24:00
+
+## 2024-10-15 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 08:30
+  - [x] Check-out: 11:30
+- Afternoon (3 hours):
+  - [x] Check-in: 15:30
+  - [x] Check-out: 18:30
+
+Total 6 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 08:30 - 09:30
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+
+- Afternoon (2 hours):
+  - [x] 15:40 - 16:40
+  - [x] 16:40 - 17:40
+
+- Evening (1 hour):
+  - [x] 22:20 - 23:20
