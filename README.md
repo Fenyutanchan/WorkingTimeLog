@@ -2,15 +2,36 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-17 (Thursday)
+# Today 2024-10-18 (Friday)
 
-Template: [Holiday](Templates/holiday-v2.md)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
-Note: Temporary off work since personal reasons.
+Note: Temporary off work with personal reasons.
 
 Total 0 hours (UTC+0800):
 
-- [ ] 00:00 - 24:00
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [ ] Check-in: 08:30
+  - [ ] Check-out: 11:30
+- Afternoon (3 hours):
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
+
+Total 0 hours (UTC+0800):
+
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
+
+- Afternoon (0 hours):
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+
+- Evening (0 hours):
+  - [ ] 20:00 - 21:00
+  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -36,6 +57,7 @@ Total 71 hours:
 - [x] [2024-10-14 (Mon.)](#2024-10-14-monday): 4 hours
 - [x] [2024-10-15 (Tue.)](#2024-10-15-tuesday): 6 hours
 - [x] [2024-10-16 (Wed.)](#2024-10-16-wednesday): 4 hours
+- [ ] [2024-10-17 (Thu.)](#2024-10-17-thursday): 0 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -320,3 +342,13 @@ Total 4 hours (UTC+0800):
 - [x] 10:20 - 11:20
 - [x] 16:00 - 17:00
 - [x] 19:00 - 20:00
+
+## 2024-10-17 (Thursday)
+
+Template: [Holiday](Templates/holiday-v2.md)
+
+Note: Temporary off work with personal reasons.
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
