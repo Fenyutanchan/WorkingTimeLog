@@ -2,25 +2,15 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-16 (Wednesday)
+# Today 2024-10-17 (Thursday)
 
-Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+Template: [Holiday](Templates/holiday-v2.md)
 
-Check Status (UTC+0800):
+Note: Temporary off work since personal reasons.
 
-- Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
-- Afternoon (1 hour):
-  - Rest: 14:30 - 16:30
-  - [x] Check-in: 16:00
-  - [x] Check-out: 17:00
+Total 0 hours (UTC+0800):
 
-Total 3 hours (UTC+0800):
-
-- [x] 09:20 - 10:20
-- [x] 10:20 - 11:20
-- [x] 16:00 - 17:00
+- [ ] 00:00 - 24:00
 
 # Previous Logs
 
@@ -28,7 +18,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2024-10
 
-Total 67 hours:
+Total 71 hours:
 
 - [x] [2024-10-01 (Tue.)](#2024-10-01-tuesday): 1 hour
 - [x] [2024-10-02 (Wed.)](#2024-10-02-wednesday): 4 hours
@@ -45,6 +35,7 @@ Total 67 hours:
 - [x] [2024-10-13 (Sun.)](#2024-10-13-sunday): 4 hours
 - [x] [2024-10-14 (Mon.)](#2024-10-14-monday): 4 hours
 - [x] [2024-10-15 (Tue.)](#2024-10-15-tuesday): 6 hours
+- [x] [2024-10-16 (Wed.)](#2024-10-16-wednesday): 4 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -308,3 +299,24 @@ Total 6 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:20 - 23:20
+
+## 2024-10-16 (Wednesday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (1 hour):
+  - Rest: 14:30 - 16:30
+  - [x] Check-in: 16:00
+  - [x] Check-out: 17:00
+
+Total 4 hours (UTC+0800):
+
+- [x] 09:20 - 10:20
+- [x] 10:20 - 11:20
+- [x] 16:00 - 17:00
+- [x] 19:00 - 20:00
