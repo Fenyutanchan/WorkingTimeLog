@@ -8,26 +8,25 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Note: Temporary off work with personal reasons.
 
-Total 0 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
 Check Status (UTC+0800):
 
-- Morning (3 hours):
-  - [ ] Check-in: 08:30
-  - [ ] Check-out: 11:30
-- Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+- Morning (2 hous):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (4 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 18:00
 
-Total 0 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 09:00 - 10:00
-  - [ ] 10:00 - 11:00
-
-- Afternoon (0 hours):
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+- Afternoon (4 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
 
 - Evening (0 hours):
   - [ ] 20:00 - 21:00
