@@ -8,7 +8,7 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
 Note: Weekend!
 
-Total 5 hours (UTC+0800):
+Total 7 hours (UTC+0800):
 
 - Morning (2 hours):
   - [x] 01:00 - 02:00
@@ -19,9 +19,9 @@ Total 5 hours (UTC+0800):
   - [x] 16:00 - 17:00
   - [x] 17:00 - 18:00
 
-- Evening (0 hours):
-  - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
+- Evening (2 hours):
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
 
 # Previous Logs
 
