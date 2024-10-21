@@ -9,7 +9,7 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [ ] Check-in: 08:00
+  - [x] Check-in: 08:00
   - [ ] Check-out: 11:00
 - Afternoon (3 hours):
   - [ ] Check-in: 14:30
@@ -19,7 +19,7 @@ Total 1 hour (UTC+0800):
 
 - Morning (1 hour):
   - [x] 00:00 - 01:00
-  - [ ] 09:00 - 10:00
+  - [ ] 08:20 - 09:20
 
 - Afternoon (0 hours):
   - [ ] 14:00 - 15:00
