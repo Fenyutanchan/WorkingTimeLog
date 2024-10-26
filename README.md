@@ -2,34 +2,15 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-25 (Friday)
+# Today 2024-10-26 (Friday)
 
-Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+Template: [Free](Templates/Free-v2.md#free-template-with-note)
 
-Check Status (UTC+0800):
+Note: Weekend!
 
-- Morning (0 hours):
-  - Oversleeping: 08:00 - 11:00
-- Afternoon (4 hours):
-  - [x] Check-in: 13:00
-  - [x] Check-out: 17:00
+Total 1 hour (UTC+0800):
 
-Total 9 hours (UTC+0800):
-
-- Morning (0 hours):
-
-- Afternoon (5 hours):
-  - [x] 13:00 - 14:00
-  - [x] 14:00 - 15:00
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
-  - [x] 17:00 - 18:00
-
-- Evening (4 hours):
-  - [x] 19:30 - 20:30
-  - [x] 20:30 - 21:30
-  - [x] 21:30 - 22:30
-  - [x] 22:30 - 23:30
+- [x] 10:30 - 11:30
 
 # Previous Logs
 
@@ -37,7 +18,7 @@ Total 9 hours (UTC+0800):
 
 # Logs of 2024-10
 
-Total 102 hours:
+Total 111 hours:
 
 - [x] [2024-10-01 (Tue.)](#2024-10-01-tuesday): 1 hour
 - [x] [2024-10-02 (Wed.)](#2024-10-02-wednesday): 4 hours
@@ -63,6 +44,7 @@ Total 102 hours:
 - [x] [2024-10-22 (Tue.)](#2024-10-22-tuesday): 6 hours
 - [x] [2024-10-23 (Wed.)](#2024-10-23-wednesday): 4 hours
 - [x] [2024-10-24 (Thu.)](#2024-10-24-thursday): 2 hours
+- [x] [2024-10-25 (Fri.)](#2024-10-25-friday): 9 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -494,3 +476,32 @@ Total 2 hours (UTC+0800):
 
 - [x] 11:20 - 12:20
 - [x] 14:00 - 15:00
+
+## 2024-10-25 (Friday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (0 hours):
+  - Oversleeping: 08:00 - 11:00
+- Afternoon (4 hours):
+  - [x] Check-in: 13:00
+  - [x] Check-out: 17:00
+
+Total 9 hours (UTC+0800):
+
+- Morning (0 hours):
+
+- Afternoon (5 hours):
+  - [x] 13:00 - 14:00
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (4 hours):
+  - [x] 19:30 - 20:30
+  - [x] 20:30 - 21:30
+  - [x] 21:30 - 22:30
+  - [x] 22:30 - 23:30
