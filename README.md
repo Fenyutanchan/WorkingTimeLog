@@ -2,23 +2,23 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-26 (Friday)
+# Today 2024-10-28 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 - Morning (3 hours):
   - [x] Check-in: 08:30
-  - [ ] Check-out: 11:30
+  - [x] Check-out: 11:30
 - Afternoon (3 hours):
   - [ ] Check-in: 14:30
   - [ ] Check-out: 17:30
 
-Total 2 hours (UTC+0800):
+Total 3 hours (UTC+0800):
 
-- Morning (2 hours):
+- Morning (3 hours):
   - [x] 00:30 - 01:30
   - [x] 09:00 - 10:00
-  - [ ] 10:00 - 11:00
+  - [x] 10:00 - 11:00
 
 - Afternoon (0 hours):
   - [ ] 14:00 - 15:00
@@ -63,7 +63,7 @@ Total 121 hours:
 - [x] [2024-10-24 (Thu.)](#2024-10-24-thursday): 2 hours
 - [x] [2024-10-25 (Fri.)](#2024-10-25-friday): 9 hours
 - [x] [2024-10-26 (Sat.)](#2024-10-26-saturday): 3 hours
-- [x] [2024-10-26 (Fri.)](#2024-10-26-friday): 7 hours
+- [x] [2024-10-27 (Sun.)](#2024-10-27-sunday): 7 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -537,7 +537,7 @@ Total 3 hours (UTC+0800):
 - [x] 14:10 - 15:10
 - [x] 15:10 - 16:10
 
-## 2024-10-26 (Friday)
+## 2024-10-27 (Sunday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
