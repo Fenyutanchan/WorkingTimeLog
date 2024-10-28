@@ -10,7 +10,7 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
   - [x] Check-in: 08:30
   - [x] Check-out: 11:30
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
+  - [x] Check-in: 14:30
   - [ ] Check-out: 17:30
 
 Total 3 hours (UTC+0800):
@@ -21,7 +21,6 @@ Total 3 hours (UTC+0800):
   - [x] 10:00 - 11:00
 
 - Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
 
