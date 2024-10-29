@@ -2,31 +2,31 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-10-28 (Monday)
+# Today 2024-10-29 (Tuesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 - Morning (3 hours):
-  - [x] Check-in: 08:30
-  - [x] Check-out: 11:30
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 7 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 00:30 - 01:30
-  - [x] 09:00 - 10:00
-  - [x] 10:00 - 11:00
+- Morning (0 hours):
+  - [ ] 10:40 - 11:40
 
-- Afternoon (2 hours):
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
-- Evening (2 hours):
-  - [x] 20:20 - 21:20
-  - [x] 21:20 - 22:20
+- Evening (0 hours):
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -34,7 +34,7 @@ Total 7 hours (UTC+0800):
 
 # Logs of 2024-10
 
-Total 121 hours:
+Total 128 hours:
 
 - [x] [2024-10-01 (Tue.)](#2024-10-01-tuesday): 1 hour
 - [x] [2024-10-02 (Wed.)](#2024-10-02-wednesday): 4 hours
@@ -63,6 +63,7 @@ Total 121 hours:
 - [x] [2024-10-25 (Fri.)](#2024-10-25-friday): 9 hours
 - [x] [2024-10-26 (Sat.)](#2024-10-26-saturday): 3 hours
 - [x] [2024-10-27 (Sun.)](#2024-10-27-sunday): 7 hours
+- [x] [2024-10-28 (Mon.)](#2024-10-28-monday): 7 hours
 
 ## 2024-10-01 (Tuesday)
 
@@ -556,3 +557,29 @@ Total 7 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 21:20 - 22:20
   - [x] 22:20 - 23:20
+
+## 2024-10-28 (Monday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+- Morning (3 hours):
+  - [x] Check-in: 08:30
+  - [x] Check-out: 11:30
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 7 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 00:30 - 01:30
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+
+- Afternoon (2 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (2 hours):
+  - [x] 20:20 - 21:20
+  - [x] 21:20 - 22:20
