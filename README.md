@@ -14,20 +14,19 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
   - [x] Check-in: 13:30
   - [x] Check-out: 17:30
 
-Total 5 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
 - Morning (1 hour):
   - [x] 10:40 - 11:40
 
-- Afternoon (4 hours):
+- Afternoon (3 hours):
   - [x] 13:40 - 14:40
-  - [x] 14:40 - 15:40
   - [x] 15:40 - 16:40
   - [x] 16:40 - 17:40
 
-- Evening (0 hours):
-  - [ ] 19:00 - 20:00
-  - [ ] 20:00 - 21:00
+- Evening (2 hours):
+  - [x] 20:10 - 21:10
+  - [x] 21:10 - 22:10
 
 # Previous Logs
 
