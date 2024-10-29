@@ -6,12 +6,12 @@ I started logging my working hours in this repository on 2024-08-01.
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
-- Morning (3 hours):
+- Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
+  - [x] Check-in: 13:30
   - [ ] Check-out: 17:30
 
 Total 1 hour (UTC+0800):
@@ -20,7 +20,7 @@ Total 1 hour (UTC+0800):
   - [x] 10:40 - 11:40
 
 - Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
+  - [ ] 13:40 - 14:40
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
 
