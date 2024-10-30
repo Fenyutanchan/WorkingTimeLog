@@ -8,15 +8,15 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 - Morning (3 hours):
   - [x] Check-in: 08:30
-  - [ ] Check-out: 11:30
+  - [x] Check-out: 11:30
 - Afternoon (3 hours):
   - [ ] Check-in: 13:30
   - [ ] Check-out: 17:30
 
-Total 0 hours (UTC+0800):
+Total 1 hour (UTC+0800):
 
-- Morning (0 hour):
-  - [ ] 10:30 - 11:30
+- Morning (1 hour):
+  - [x] 10:30 - 11:30
 
 - Afternoon (0 hours):
   - [ ] 13:40 - 14:40
