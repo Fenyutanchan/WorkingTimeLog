@@ -2,24 +2,34 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-04 (Tuesday)
+# Today 2024-11-06 (Wednesday)
 
-Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (1 hour):
-  - [x] Check-in: 08:00
-  - [x] Check-out: 09:00
-  - Off Work for Registering a New Electric Bycicle: 09:00 - 11:00
+- Morning (2 hours):
+  - Oversleeping: 09:30 - 10:30
+  - [x] Check-in: 10:30
+  - [x] Check-out: 12:30
 - Afternoon (3 hours):
   - [x] Check-in: 15:00
-  - [ ] Check-out: 18:00
+  - [x] Check-out: 18:00
 
-Total 0 hours (UTC+0800):
+Total 7 hours (UTC+0800):
 
-- [ ] 15:00 - 16:00
-- [ ] 16:00 - 17:00
+- Morning (2 hours):
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (2 hours):
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
 
 # Previous Logs
 
@@ -27,11 +37,12 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 6 hours:
+Total 8 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
 - [x] [2024-11-03 (Sun.)](#2024-11-03-sunday): 1 hour
+- [x] [2024-11-04 (Mon.)](#2024-11-04-monday): 2 hours
 
 ## 2024-11-01 (Friday)
 
@@ -86,3 +97,14 @@ Total 4 hours (UTC+0800):
 - [x] 10:00 - 11:00
 - [x] 20:00 - 21:00
 - [x] 22:00 - 23:00
+
+## 2024-11-05 (Tuesday)
+
+Template: Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Temporary Off Work for Registering a New Electric Bycicle.
+
+Total 2 hours (UTC+0800):
+
+- [x] 15:00 - 16:00
+- [x] 16:00 - 17:00
