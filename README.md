@@ -2,32 +2,25 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-08 (Friday)
+# Today 2024-11-09 (Saturday)
 
-Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
-Check Status (UTC+0800):
-
-- Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
-- Afternoon (3 hours):
-  - [x] Check-in: 15:00
-  - [x] Check-out: 18:00
+Note: Weekend!
 
 Total 6 hours (UTC+0800):
 
-- Morning (1 hour):
-  - [x] 10:00 - 11:00
+- Morning (0 hours):
 
-- Afternoon (2 hours):
-  - [x] 16:00 - 17:00
+- Afternoon (3 hours):
+  - [x] 13:00 - 14:00
+  - [x] 14:00 - 15:00
   - [x] 17:00 - 18:00
 
 - Evening (3 hours):
-  - [x] 20:00 - 21:00
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
+  - [x] 23:00 - 24:00
 
 # Previous Logs
 
@@ -35,7 +28,7 @@ Total 6 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 27 hours:
+Total 33 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -44,6 +37,7 @@ Total 27 hours:
 - [x] [2024-11-05 (Tue.)](#2024-11-05-tuesday): 2 hours
 - [x] [2024-11-06 (Wed.)](#2024-11-06-wednesday): 7 hours
 - [x] [2024-11-07 (Thu.)](#2024-11-07-thursday): 8 hours
+- [x] [2024-11-08 (Fri.)](#2024-11-08-friday): 6 hours
 
 ## 2024-11-01 (Friday)
 
@@ -168,3 +162,30 @@ Total 8 hours (UTC+0800):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
   - [x] 23:00 - 24:00
+
+  ## 2024-11-08 (Friday)
+
+Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 10:00 - 11:00
+
+- Afternoon (2 hours):
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (3 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
