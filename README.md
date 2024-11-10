@@ -2,27 +2,34 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-10 (Sunday)
+# Today 2024-11-11 (Monday)
 
-Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
-Note: Weekend!
+Check Status (UTC+0800):
 
-Total 8 hours (UTC+0800):
-
-- Morning (1 hour):
-  - [x] 11:00 - 12:00
-
+- Morning (3 hours):
+  - [ ] Check-in: 08:00
+  - [ ] Check-out: 11:00
 - Afternoon (3 hours):
-  - [x] 14:00 - 15:00
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-- Evening (4 hours):
-  - [x] 19:00 - 20:00
-  - [x] 20:00 - 21:00
-  - [x] 21:00 - 22:00
-  - [x] 23:00 - 24:00
+Total 3 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 00:00 - 01:00
+  - [x] 01:00 - 02:00
+  - [x] 02:00 - 03:00
+  - [ ] 09:00 - 10:00
+
+- Afternoon (0 hours):
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+
+- Evening (0 hours):
+  - [ ] 20:00 - 21:00
+  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -30,7 +37,7 @@ Total 8 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 39 hours:
+Total 47 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -41,6 +48,7 @@ Total 39 hours:
 - [x] [2024-11-07 (Thu.)](#2024-11-07-thursday): 8 hours
 - [x] [2024-11-08 (Fri.)](#2024-11-08-friday): 6 hours
 - [x] [2024-11-09 (Sat.)](#2024-11-09-saturday): 6 hours
+- [x] [2024-11-10 (Sun.)](#2024-11-10-sunday): 8 hours
 
 ## 2024-11-01 (Friday)
 
@@ -98,7 +106,7 @@ Total 4 hours (UTC+0800):
 
 ## 2024-11-05 (Tuesday)
 
-Template: Template: [Holiday](Templates/Templates/Holiday-v2.md)
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
 
 Note: Temporary Off Work for Registering a New Electric Bycicle.
 
@@ -109,7 +117,7 @@ Total 2 hours (UTC+0800):
 
 ## 2024-11-06 (Wednesday)
 
-Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
@@ -138,7 +146,7 @@ Total 7 hours (UTC+0800):
 
   ## 2024-11-07 (Thursday)
 
-Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
@@ -168,7 +176,7 @@ Total 8 hours (UTC+0800):
 
   ## 2024-11-08 (Friday)
 
-Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
@@ -195,7 +203,7 @@ Total 6 hours (UTC+0800):
 
 ## 2024-11-09 (Saturday)
 
-Template: Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
 Note: Weekend!
 
@@ -211,4 +219,26 @@ Total 6 hours (UTC+0800):
 - Evening (3 hours):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
+  - [x] 23:00 - 24:00
+
+  ## 2024-11-10 (Sunday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
+
+Note: Weekend!
+
+Total 8 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (4 hours):
+  - [x] 19:00 - 20:00
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
   - [x] 23:00 - 24:00
