@@ -10,26 +10,30 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [ ] Check-out: 12:00
-- Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [x] Check-out: 12:00
+- Afternoon (1 hour):
+  - [x] Check-in: 13:00
+  - [x] Check-out: 14:00
+  - Early Leave for Rest: 14:00 - 16:00
 
-Total 3 hours (UTC+0800):
+Total 11 hours (UTC+0800):
 
-- Morning (3 hours):
+- Morning (6 hours):
   - [x] 00:00 - 01:00
   - [x] 01:00 - 02:00
   - [x] 02:00 - 03:00
-  - [ ] 09:00 - 10:00
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
 
-- Afternoon (0 hours):
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+- Afternoon (1 hour):
+  - [x] 13:00 - 14:00
 
-- Evening (0 hours):
-  - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
+- Evening (4 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
+  - [x] 23:00 - 24:00
 
 # Previous Logs
 
