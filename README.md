@@ -2,15 +2,14 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-14 (Thursday)
+# Today 2024-11-15 (Friday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (2 hours):
-  - Oversleeping: 09:00 - 10:00
-  - [x] Check-in: 10:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
   - [ ] Check-out: 12:00
 - Afternoon (3 hours):
   - [ ] Check-in: 14:00
@@ -19,17 +18,15 @@ Check Status (UTC+0800):
 Total 0 hours (UTC+0800):
 
 - Morning (0 hours):
-  - [ ] 10:30 - 11:30
-  - [ ] 11:30 - 12:30
+  - [ ] 09:00 - 10:00
 
 - Afternoon (0 hours):
-  - [ ] 15:30 - 16:30
-  - [ ] 16:30 - 17:30
+  - [ ] 12:30 - 13:30
+  - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
-- Evening (0 hours):
-  - [ ] 21:00 - 22:00
-  - [ ] 22:00 - 23:00
-  - [ ] 23:00 - 24:00
+- Evening (0 hour):
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -37,7 +34,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 74 hours:
+Total 80 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -52,6 +49,7 @@ Total 74 hours:
 - [x] [2024-11-11 (Mon.)](#2024-11-11-monday): 11 hours
 - [x] [2024-11-12 (Tue.)](#2024-11-12-tuesday): 9 hours
 - [x] [2024-11-13 (Wed.)](#2024-11-13-wednesday): 7 hours
+- [x] [2024-11-14 (Thu.)](#2024-11-14-thursday): 6 hours
 
 ## 2024-11-01 (Friday)
 
@@ -147,7 +145,7 @@ Total 7 hours (UTC+0800):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
 
-  ## 2024-11-07 (Thursday)
+## 2024-11-07 (Thursday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -177,7 +175,7 @@ Total 8 hours (UTC+0800):
   - [x] 22:00 - 23:00
   - [x] 23:00 - 24:00
 
-  ## 2024-11-08 (Friday)
+## 2024-11-08 (Friday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -224,7 +222,7 @@ Total 6 hours (UTC+0800):
   - [x] 22:00 - 23:00
   - [x] 23:00 - 24:00
 
-  ## 2024-11-10 (Sunday)
+## 2024-11-10 (Sunday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
@@ -246,7 +244,7 @@ Total 8 hours (UTC+0800):
   - [x] 21:00 - 22:00
   - [x] 23:00 - 24:00
 
-  ## 2024-11-11 (Monday)
+## 2024-11-11 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -337,3 +335,31 @@ Total 7 hours (UTC+0800):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
   - [x] 23:00 - 24:00
+
+## 2024-11-14 (Thursday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (3 hours):
+  - [x] 12:30 - 13:30
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (1 hour):
+  - [x] 20:00 - 21:00
