@@ -2,34 +2,31 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-19 (Tuesday)
+# Today 2024-11-22 (Friday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (3 hours):
-  - Oversleeping: 09:00 - 10:00
-  - [x] Check-in: 10:00
-  - [x] Check-out: 12:00
+- Morning (0 hours):
+  - Oversleeping: 09:00 - 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
 
-Total 2 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+- Morning (0 hours):
 
-- Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+- Afternoon (3 hours):
+  - [x] 13:00 - 14:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
 
-- Evening (0 hours):
-  - [ ] 19:00 - 20:00
-  - [ ] 20:00 - 21:00
+- Evening (3 hours):
+  - [x] 18:00 - 19:00
+  - [x] 19:00 - 20:00
+  - [x] 21:00 - 22:00
 
 # Previous Logs
 
@@ -37,7 +34,7 @@ Total 2 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 95 hours:
+Total 113 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -57,6 +54,9 @@ Total 95 hours:
 - [x] [2024-11-16 (Sat.)](#2024-11-16-saturday): 3 hours
 - [x] [2024-11-17 (Sun.)](#2024-11-17-sunday): 1 hour
 - [x] [2024-11-18 (Mon.)](#2024-11-18-monday): 9 hours
+- [x] [2024-11-19 (Tue.)](#2024-11-19-tuesday): 6 hours
+- [x] [2024-11-20 (Wed.)](#2024-11-20-wednesday): 6 hours
+- [x] [2024-11-21 (Thu.)](#2024-11-21-thursday): 6 hours
 
 ## 2024-11-01 (Friday)
 
@@ -432,4 +432,87 @@ Total 9 hours (UTC+0800):
 
 - Evening (2 hours):
   - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+
+## 2024-11-19 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (2 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (2 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+
+## 2024-11-20 (Wednesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (1 hour):
+  - Oversleeping: 09:00 - 11:00
+  - [x] Check-in: 11:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 6 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (2 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+
+## 2024-11-21 (Thursday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+
+- Afternoon (2 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (2 hours):
+  - [x] 19:00 - 20:00
   - [x] 21:00 - 22:00
