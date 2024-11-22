@@ -2,30 +2,33 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-15 (Friday)
+# Today 2024-11-19 (Tuesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [ ] Check-out: 12:00
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:00
-  - [ ] Check-out: 17:00
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 0 hours (UTC+0800):
+Total 2 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 09:00 - 10:00
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
 
 - Afternoon (0 hours):
-  - [ ] 12:30 - 13:30
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
-  - [ ] 17:00 - 18:00
 
-- Evening (0 hour):
+- Evening (0 hours):
+  - [ ] 19:00 - 20:00
   - [ ] 20:00 - 21:00
 
 # Previous Logs
@@ -34,7 +37,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 80 hours:
+Total 95 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -50,6 +53,10 @@ Total 80 hours:
 - [x] [2024-11-12 (Tue.)](#2024-11-12-tuesday): 9 hours
 - [x] [2024-11-13 (Wed.)](#2024-11-13-wednesday): 7 hours
 - [x] [2024-11-14 (Thu.)](#2024-11-14-thursday): 6 hours
+- [x] [2024-11-15 (Fri.)](#2024-11-15-friday): 2 hours
+- [x] [2024-11-16 (Sat.)](#2024-11-16-saturday): 3 hours
+- [x] [2024-11-17 (Sun.)](#2024-11-17-sunday): 1 hour
+- [x] [2024-11-18 (Mon.)](#2024-11-18-monday): 9 hours
 
 ## 2024-11-01 (Friday)
 
@@ -363,3 +370,66 @@ Total 6 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 20:00 - 21:00
+
+## 2024-11-15 (Friday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Temporary off work with personal reasons.
+
+Total 2 hours (UTC+0800):
+
+- [x] 09:00 - 10:00
+- [x] 10:00 - 11:00
+
+## 2024-11-16 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 3 hours (UTC+0800):
+
+- [x] 12:00 - 13:00
+- [x] 15:00 - 16:00
+- [x] 16:00 - 17:00
+
+## 2024-11-17 (Sunday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 1 hour (UTC+0800):
+
+- [x] 14:00 - 15:00
+
+## 2024-11-18 (Monday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 9 hours (UTC+0800):
+
+- Morning (5 hours):
+  - [x] 00:00 - 01:00
+  - [x] 01:00 - 02:00
+  - [x] 02:00 - 03:00
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+
+- Afternoon (2 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (2 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
