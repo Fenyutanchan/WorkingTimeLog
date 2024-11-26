@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-11-25 (Monday)
+# Today 2024-11-26 (Tuesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -10,26 +10,24 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 7 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
-  - [x] 11:30 - 12:30
+- Morning (0 hours):
+  - [ ] 09:30 - 10:30
+  - [ ] 10:30 - 11:30
+  - [ ] 11:30 - 12:30
 
-- Afternoon (3 hours):
-  - [x] 14:30 - 15:30
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
-  - [x] 17:30 - 18:30
+- Afternoon (0 hours):
+  - [ ] 14:30 - 15:30
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
 
-- Evening (1 hour):
-  - [x] 20:30 - 21:30
+- Evening (0 hours):
 
 # Previous Logs
 
@@ -37,7 +35,7 @@ Total 7 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 125 hours:
+Total 132 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -63,6 +61,7 @@ Total 125 hours:
 - [x] [2024-11-22 (Fri.)](#2024-11-22-friday): 6 hours
 - [x] [2024-11-23 (Sat.)](#2024-11-23-saturday): 2 hours
 - [x] [2024-11-24 (Sun.)](#2024-11-24-sunday): 4 hours
+- [x] [2024-11-25 (Mon.)](#2024-11-25-monday): 7 hours
 
 ## 2024-11-01 (Friday)
 
@@ -572,3 +571,32 @@ Total 4 hours (UTC+0800):
 - [x] 11:00 - 12:00
 - [x] 20:00 - 21:00
 - [x] 21:00 - 22:00
+
+## 2024-11-25 (Monday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 7 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (3 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+  - [x] 17:30 - 18:30
+
+- Evening (1 hour):
+  - [x] 20:30 - 21:30
