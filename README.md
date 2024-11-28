@@ -14,7 +14,7 @@ Check Status (UTC+0800):
   - [x] Check-in: 14:00
   - [x] Check-out: 17:00
 
-Total 3 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
 - Morning (0 hours):
 
@@ -23,10 +23,10 @@ Total 3 hours (UTC+0800):
   - [x] 15:00 - 16:00
   - [x] 16:00 - 17:00
 
-- Evening (0 hours):
-  - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
-  - [ ] 23:00 - 24:00
+- Evening (3 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
 
 # Previous Logs
 
