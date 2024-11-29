@@ -8,25 +8,29 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (0 hours):
-  - Temporary Off Work: 09:00 - 12:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
-  - [x] Check-out: 17:00
+  - [ ] Check-in: 14:00
+  - [ ] Check-out: 17:00
 
-Total 6 hours (UTC+0800):
+Total 1 hour (UTC+0800):
 
-- Morning (0 hours):
+- Morning (1 hour):
+  - [x] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
 - Afternoon (3 hours):
-  - [x] 14:00 - 15:00
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
 - Evening (3 hours):
-  - [x] 20:00 - 21:00
-  - [x] 21:00 - 22:00
-  - [x] 22:00 - 23:00
+  - [ ] 20:00 - 21:00
+  - [ ] 21:00 - 22:00
+  - [ ] 22:00 - 23:00
 
 # Previous Logs
 
@@ -34,7 +38,7 @@ Total 6 hours (UTC+0800):
 
 # Logs of 2024-11
 
-Total 141 hours:
+Total 147 hours:
 
 - [x] [2024-11-01 (Fri.)](#2024-11-01-friday): 2 hours
 - [x] [2024-11-02 (Sat.)](#2024-11-02-saturday): 3 hours
@@ -63,6 +67,7 @@ Total 141 hours:
 - [x] [2024-11-25 (Mon.)](#2024-11-25-monday): 7 hours
 - [x] [2024-11-26 (Tue.)](#2024-11-26-tuesday): 9 hours
 - [x] [2024-11-27 (Wed.)](#2024-11-27-wednesday): 9 hours
+- [x] [2024-11-28 (Thu.)](#2024-11-28-thursday): 6 hours
 
 ## 2024-11-01 (Friday)
 
@@ -661,3 +666,29 @@ Total 9 hours (UTC+0800):
   - [x] 20:00 - 21:00
   - [x] 21:00 - 22:00
   - [x] 23:00 - 24:00
+
+## 2024-11-28 (Thursday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (0 hours):
+  - Temporary Off Work: 09:00 - 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (0 hours):
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (3 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
