@@ -8,24 +8,26 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (1 hour):
-  - Oversleeping: 09:00 - 11:00
-  - [x] Check-in: 11:00
-  - [x] Check-out: 12:00
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
 Total 0 hours (UTC+0800):
 
 - Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
-- Afternoon (3 hours):
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
-  - [x] 17:00 - 18:00
+- Afternoon (0 hours):
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
-- Evening (2 hours):
+- Evening (0 hours):
   - [ ] 21:00 - 22:00
   - [ ] 22:00 - 23:00
 
@@ -35,9 +37,10 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2024-12
 
-Total 2 hours:
+Total 7 hours:
 
 - [x] [2024-12-01 (Sun.)](#2024-12-01-sunday): 2 hours
+- [x] [2024-12-02 (Mon.)](#2024-12-02-monday): 5 hours
 
 ## 2024-12-01 (Sunday)
 
@@ -49,3 +52,30 @@ Total 2 hours (UTC+0800):
 
 - [x] 15:00 - 16:00
 - [x] 22:00 - 23:00
+
+## 2024-12-02 (Monday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (1 hour):
+  - Oversleeping: 09:00 - 11:00
+  - [x] Check-in: 11:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 5 hours (UTC+0800):
+
+- Morning (0 hours):
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (2 hours):
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
