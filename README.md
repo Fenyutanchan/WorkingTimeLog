@@ -2,14 +2,33 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-12-06 (Friday)
+# Today 2024-12-09 (Monday)
 
-Template: [Holiday](Templates/Templates/Holiday-v2.md)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
-Note: For my wife's defense!
+Check Status (UTC+0800):
 
-Total 0 hours (UTC+0800):
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
+- Afternoon (3 hours):
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
+Total 0 hour (UTC+0800):
+
+- Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
+
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+
+- Evening (0 hours):
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -17,13 +36,16 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2024-12
 
-Total 25 hours:
+Total 30 hours:
 
 - [x] [2024-12-01 (Sun.)](#2024-12-01-sunday): 2 hours
 - [x] [2024-12-02 (Mon.)](#2024-12-02-monday): 5 hours
 - [x] [2024-12-03 (Tue.)](#2024-12-03-tueseay): 7 hours
 - [x] [2024-12-04 (Wed.)](#2024-12-04-wednesday): 6 hours
 - [x] [2024-12-05 (Thu.)](#2024-12-05-thursday): 5 hours
+- [ ] [2024-12-06 (Fri.)](#2024-12-06-friday): 0 hours
+- [x] [2024-12-07 (Sat.)](#2024-12-07-saturday): 1 hour
+- [x] [2024-12-08 (Sun.)](#2024-12-08-sunday): 4 hours
 
 ## 2024-12-01 (Sunday)
 
@@ -145,3 +167,35 @@ Total 5 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 21:20 - 22:20
+
+## 2024-12-06 (Friday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: For my wife's defense!
+
+Total 0 hours (UTC+0800):
+- [ ] 00:00 - 24:00
+
+## 2024-12-07 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 1 hour (UTC+0800):
+
+- [x] 17:00 - 18:00
+
+## 2024-12-08 (Sunday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-note)
+
+Note: Weekend!
+
+Total 4 hours (UTC+0800):
+
+- [x] 10:00 - 11:00
+- [x] 11:00 - 12:00
+- [x] 20:00 - 21:00
+- [x] 21:00 - 22:00
