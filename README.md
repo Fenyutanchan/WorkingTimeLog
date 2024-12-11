@@ -2,26 +2,29 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-12-10 (Tuesday)
+# Today 2024-12-11 (Wednesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (0 hours):
-  Fever and rest: 09:00 - 12:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
-  - [x] Check-out: 17:00
+  - [ ] Check-in: 14:00
+  - [ ] Check-out: 17:00
 
 Total 0 hours (UTC+0800):
 
 - Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
-- Afternoon (3 hours):
-  - [x] 14:00 - 15:00
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
   - [ ] 21:00 - 22:00
@@ -32,7 +35,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2024-12
 
-Total 36 hours:
+Total 40 hours:
 
 - [x] [2024-12-01 (Sun.)](#2024-12-01-sunday): 2 hours
 - [x] [2024-12-02 (Mon.)](#2024-12-02-monday): 5 hours
@@ -43,6 +46,7 @@ Total 36 hours:
 - [x] [2024-12-07 (Sat.)](#2024-12-07-saturday): 1 hour
 - [x] [2024-12-08 (Sun.)](#2024-12-08-sunday): 4 hours
 - [x] [2024-12-09 (Mon.)](#2024-12-09-monday): 6 hours
+- [x] [2024-12-10 (Tue.)](#2024-12-10-tuesday): 4 hours
 
 ## 2024-12-01 (Sunday)
 
@@ -222,4 +226,28 @@ Total 6 hours (UTC+0800):
   - [x] 15:30 - 16:30
 
 - Evening (1 hour):
+  - [x] 21:00 - 22:00
+
+## 2024-12-10 (Tuesday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (0 hours):
+  Fever and rest: 09:00 - 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 4 hours (UTC+0800):
+
+- Morning (0 hours):
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (1 hours):
   - [x] 21:00 - 22:00
