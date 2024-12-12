@@ -11,15 +11,15 @@ Check Status (UTC+0800):
 - Morning (3 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
 
 Total 0 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 10:30 - 11:30
+- Morning (1 hour):
+  - [x] 10:30 - 11:30
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
@@ -250,7 +250,7 @@ Total 4 hours (UTC+0800):
   - [x] 15:00 - 16:00
   - [x] 16:00 - 17:00
 
-- Evening (1 hours):
+- Evening (1 hour):
   - [x] 21:00 - 22:00
 
 ## 2024-12-11 (Wednesday)
