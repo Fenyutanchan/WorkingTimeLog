@@ -2,23 +2,25 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-12-13 (Friday)
+# Today 2024-12-16 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
+  - [ ] Check-in: 14:00
   - [ ] Check-out: 17:00
 
-Total 1 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
-- Morning (1 hour):
-  - [x] 09:00 - 10:00
+- Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
 - Afternoon (0 hours):
   - [ ] 14:00 - 15:00
@@ -26,8 +28,6 @@ Total 1 hours (UTC+0800):
   - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
-  - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -35,7 +35,7 @@ Total 1 hours (UTC+0800):
 
 # Logs of 2024-12
 
-Total 52 hours:
+Total 59 hours:
 
 - [x] [2024-12-01 (Sun.)](#2024-12-01-sunday): 2 hours
 - [x] [2024-12-02 (Mon.)](#2024-12-02-monday): 5 hours
@@ -49,6 +49,9 @@ Total 52 hours:
 - [x] [2024-12-10 (Tue.)](#2024-12-10-tuesday): 4 hours
 - [x] [2024-12-11 (Wed.)](#2024-12-11-wednesday): 6 hours
 - [x] [2024-12-12 (Thu.)](#2024-12-12-thursday): 6 hours
+- [x] [2024-12-13 (Fri.)](#2024-12-13-friday): 4 hours
+- [ ] [2024-12-14 (Sat.)](#2024-12-14-saturday): 0 hours
+- [x] [2024-12-15 (Sun.)](#2024-12-15-sunday): 3 hours
 
 ## 2024-12-01 (Sunday)
 
@@ -308,3 +311,50 @@ Total 6 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 20:00 - 21:00
   - [x] 21:00 - 22:00
+
+## 2024-12-13 (Friday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 4 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 09:00 - 10:00
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (0 hours):
+
+## 2024-12-14 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
+
+## 2024-12-15 (Sunday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 3 hours (UTC+0800):
+
+- [x] 14:00 - 15:00
+- [x] 15:00 - 16:00
+- [x] 21:00 - 22:00
