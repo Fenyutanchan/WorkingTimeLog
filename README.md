@@ -11,7 +11,7 @@ Check Status (UTC+0800):
 - Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
@@ -19,15 +19,15 @@ Check Status (UTC+0800):
 Total 2 hours (UTC+0800):
 
 - Morning (2 hours):
-  - [ ] 10:00 - 11:00
-  - [ ] 11:00 - 12:00
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
 
-- Afternoon (2 hours):
+- Afternoon (0 hours):
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
   - [ ] 17:00 - 18:00
 
-- Evening (1 hour):
+- Evening (0 hour):
   - [ ] 22:30 - 23:30
 
 # Previous Logs
