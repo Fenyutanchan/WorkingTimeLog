@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-12-16 (Monday)
+# Today 2024-12-17 (Tuesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -11,22 +11,24 @@ Check Status (UTC+0800):
 - Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [x] Check-out: 12:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
-  - [ ] Check-out: 17:00
+  - [ ] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
 Total 2 hours (UTC+0800):
 
 - Morning (2 hours):
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
-- Afternoon (0 hours):
+- Afternoon (2 hours):
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
-- Evening (0 hours):
+- Evening (1 hour):
+  - [ ] 22:30 - 23:30
 
 # Previous Logs
 
@@ -34,7 +36,7 @@ Total 2 hours (UTC+0800):
 
 # Logs of 2024-12
 
-Total 59 hours:
+Total 65 hours:
 
 - [x] [2024-12-01 (Sun.)](#2024-12-01-sunday): 2 hours
 - [x] [2024-12-02 (Mon.)](#2024-12-02-monday): 5 hours
@@ -51,6 +53,7 @@ Total 59 hours:
 - [x] [2024-12-13 (Fri.)](#2024-12-13-friday): 4 hours
 - [ ] [2024-12-14 (Sat.)](#2024-12-14-saturday): 0 hours
 - [x] [2024-12-15 (Sun.)](#2024-12-15-sunday): 3 hours
+- [x] [2024-12-16 (Mon.)](#2024-12-16-monday): 6 hours
 
 ## 2024-12-01 (Sunday)
 
@@ -357,3 +360,31 @@ Total 3 hours (UTC+0800):
 - [x] 14:00 - 15:00
 - [x] 15:00 - 16:00
 - [x] 21:00 - 22:00
+
+## 2024-12-16 (Monday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (1 hour):
+  - [x] 22:30 - 23:30
