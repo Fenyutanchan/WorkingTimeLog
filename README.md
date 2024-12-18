@@ -2,33 +2,33 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-12-17 (Tuesday)
+# Today 2024-12-18 (Wednesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (2 hours):
-  - Oversleeping: 09:00 - 10:00
-  - [x] Check-in: 10:00
-  - [x] Check-out: 12:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
-  - [x] Check-out: 18:00
+  - [ ] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
-Total 2 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 10:30 - 11:30
-  - [x] 11:30 - 12:30
+- Morning (0 hours):
+  - [ ] 10:30 - 11:30
+  - [ ] 11:30 - 12:30
 
-- Afternoon (3 hours):
-  - [x] 14:45 - 15:45
-  - [x] 15:45 - 16:45
-  - [x] 16:45 - 17:45
+- Afternoon (0 hours):
+  - [ ] 14:45 - 15:45
+  - [ ] 15:45 - 16:45
+  - [ ] 16:45 - 17:45
 
-- Evening (0 hour):
-  - [ ] 22:30 - 23:30
+- Evening (0 hours):
+  - [ ] 20:00 - 21:00
+  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -388,3 +388,32 @@ Total 6 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:30 - 23:30
+
+## 2024-12-17 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 7 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (3 hours):
+  - [x] 14:45 - 15:45
+  - [x] 15:45 - 16:45
+  - [x] 16:45 - 17:45
+
+- Evening (2 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
