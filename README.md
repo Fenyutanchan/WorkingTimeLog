@@ -11,15 +11,15 @@ Check Status (UTC+0800):
 - Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
 
-Total 6 hours (UTC+0800):
+Total 1 hour (UTC+0800):
 
 - Morning (1 hour):
-  - [ ] 11:00 - 12:00
+  - [x] 11:00 - 12:00
 
 - Afternoon (3 hours):
   - [ ] 14:45 - 15:45
