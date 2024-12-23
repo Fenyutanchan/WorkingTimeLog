@@ -2,32 +2,32 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2024-12-20 (Friday)
+# Today 2024-12-22 (Sunday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (1 hour):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 10:00
-  - Early check-out for a rest.
+- Morning (3 hours):
+  - [x] Check-in: 09:30
+  - [ ] Check-out: 12:30
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
-  - [ ] Check-out: 17:00
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 1 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 00:00 - 01:00
-  - [x] 09:00 - 10:00
+- Morning (0 hours):
+  - [ ] 09:30 - 10:30
 
 - Afternoon (0 hours):
-  - [ ] 15:40 - 16:40
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
-  - [ ] 21:00 - 22:00
-  - [ ] 22:00 - 23:00
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -35,7 +35,7 @@ Total 1 hours (UTC+0800):
 
 # Logs of 2024-12
 
-Total 85 hours:
+Total 95 hours:
 
 - [x] [2024-12-01 (Sun.)](#2024-12-01-sunday): 2 hours
 - [x] [2024-12-02 (Mon.)](#2024-12-02-monday): 5 hours
@@ -56,6 +56,9 @@ Total 85 hours:
 - [x] [2024-12-17 (Tue.)](#2024-12-17-tuesday): 7 hours
 - [x] [2024-12-18 (Wed.)](#2024-12-18-wednesday): 6 hours
 - [x] [2024-12-19 (Thu.)](#2024-12-19-thursday): 7 hours
+- [x] [2024-12-20 (Fri.)](#2024-12-20-friday): 6 hours
+- [x] [2024-12-21 (Sat.)](#2024-12-21-saturday): 2 hours
+- [x] [2024-12-22 (Sun.)](#2024-12-22-sunday): 2 hours
 
 ## 2024-12-01 (Sunday)
 
@@ -475,3 +478,53 @@ Total 7 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
+
+## 2024-12-20 (Friday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (1 hour):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 10:00
+  - Early check-out for a rest.
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 00:00 - 01:00
+  - [x] 09:00 - 10:00
+
+- Afternoon (2 hours):
+  - [x] 15:40 - 16:40
+  - [x] 16:40 - 17:40
+
+- Evening (2 hours):
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+
+## 2024-12-21 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 09:00 - 10:00
+- [x] 22:00 - 23:00
+
+## 2024-12-22 (Sunday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 14:00 - 15:00
+- [x] 22:00 - 23:00
