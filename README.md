@@ -12,7 +12,7 @@ Check Status (UTC+0800):
   - [x] Check-in: 09:00
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
+  - [x] Check-in: 14:30
   - [ ] Check-out: 17:30
 
 Total 3 hours (UTC+0800):
@@ -36,9 +36,10 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 3 hours:
+Total 9 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
+- [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
 
 ## 2025-01-01 (Wednesday)
 
