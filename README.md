@@ -10,20 +10,21 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:00
-  - [ ] Check-out: 17:00
+  - [x] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 0 hours (UTC+0800):
+Total 1 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 10:40 - 11:40
+- Morning (1 hours):
+  - [x] 09:40 - 10:40
+  - [x] 10:40 - 11:40
 
 - Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+  - [ ] 14:30 - 15:30
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
 
 - Evening (0 hours):
   - [ ] 20:00 - 21:00
@@ -35,13 +36,14 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 19 hours:
+Total 25 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
 - [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
 - [x] [2025-01-03 (Fri.)](#2025-01-03-friday): 6 hours
 - [x] [2025-01-04 (Sat.)](#2025-01-04-saturday): 2 hours
 - [x] [2025-01-05 (Sun.)](#2025-01-05-sunday): 2 hours
+- [x] [2025-01-06 (Mon.)](#2025-01-06-monday): 6 hours
 
 ## 2025-01-01 (Wednesday)
 
