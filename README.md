@@ -8,22 +8,22 @@ Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (3 hours):
+- Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [x] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
 Total 0 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 10:40 - 11:40
+- Morning (1 hour):
+  - [x] 10:40 - 11:40
 
 - Afternoon (0 hours):
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
 
 - Evening (0 hours):
   - [ ] 22:30 - 23:30
