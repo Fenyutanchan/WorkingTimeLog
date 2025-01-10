@@ -2,31 +2,30 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-01-09 (Thursday)
+# Today 2025-01-10 (Friday)
 
 Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (2 hours):
-  - Oversleeping: 09:00 - 10:00
-  - [x] Check-in: 10:00
-  - [x] Check-out: 12:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
+  - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
 
 Total 0 hours (UTC+0800):
 
-- Morning (1 hour):
-  - [x] 10:40 - 11:40
+- Morning (0 hours):
+  - [ ] 10:40 - 11:40
 
 - Afternoon (0 hours):
   - [ ] 15:30 - 16:30
   - [ ] 16:30 - 17:30
 
 - Evening (0 hours):
-  - [ ] 22:30 - 23:30
+  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -34,7 +33,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 34 hours:
+Total 38 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
 - [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
@@ -44,6 +43,7 @@ Total 34 hours:
 - [x] [2025-01-06 (Mon.)](#2025-01-06-monday): 6 hours
 - [x] [2025-01-07 (Tue.)](#2025-01-07-tuesday): 5 hours
 - [x] [2025-01-08 (Wed.)](#2025-01-08-wednesday): 4 hours
+- [x] [2025-01-09 (Thu.)](#2025-01-09-thursday): 4 hours
 
 ## 2025-01-01 (Wednesday)
 
@@ -212,3 +212,29 @@ Total 4 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:30 - 23:30
+
+## 2025-01-09 (Thursday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 4 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 10:40 - 11:40
+
+- Afternoon (2 hours):
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (1 hour):
+  - [x] 21:00 - 22:00
