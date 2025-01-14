@@ -11,22 +11,22 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [x] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [x] Check-out: 17:30
 
-Total 2 hours (UTC+0800):
+Total 7 hours (UTC+0800):
 
 - Morning (2 hours):
   - [x] 09:30 - 10:30
   - [x] 10:30 - 11:30
 
-- Afternoon (0 hours):
-  - [ ] 14:30 - 15:30
-  - [ ] 15:30 - 16:30
-  - [ ] 17:00 - 18:00
+- Afternoon (3 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
 
-- Evening (0 hours):
-  - [ ] 21:30 - 22:30
-  - [ ] 22:30 - 23:30
+- Evening (2 hours):
+  - [x] 21:30 - 22:30
+  - [x] 22:30 - 23:30
 
 # Previous Logs
 
