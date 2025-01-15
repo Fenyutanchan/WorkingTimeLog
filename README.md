@@ -9,7 +9,7 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 - Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [ ] Check-in: 14:30
   - [ ] Check-out: 17:30
@@ -17,7 +17,7 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 Total 0 hour (UTC+0800):
 
 - Morning (0 hour):
-  - [ ] 10:30 - 11:30
+  - [x] 10:30 - 11:30
 
 - Afternoon (0 hours):
   - [ ] 14:30 - 15:30
