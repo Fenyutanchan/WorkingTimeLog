@@ -2,31 +2,33 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-01-17 (Friday)
+# Today 2025-01-20 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
-- Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
-- Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
-
-Total 5 hours (UTC+0800):
+Check Status (UTC+0800):
 
 - Morning (2 hours):
-  - [x] 09:00 - 10:00
-  - [x] 11:00 - 12:00
-
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] 14:30 - 15:30
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
+
+Total 2 hours (UTC+0800):
+
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
+  - [ ] 19:00 - 20:00
   - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
 
 # Previous Logs
 
@@ -34,7 +36,7 @@ Total 5 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 67 hours:
+Total 76 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
 - [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
@@ -52,6 +54,7 @@ Total 67 hours:
 - [x] [2025-01-14 (Tue.)](#2025-01-14-tuesday): 7 hours
 - [x] [2025-01-15 (Wed.)](#2025-01-15-wednesday): 5 hours
 - [ ] [2025-01-16 (Thu.)](#2025-01-16-thursday): 0 hours
+- [x] [2025-01-17 (Fri.)](#2025-01-17-friday): 9 hours
 
 ## 2025-01-01 (Wednesday)
 
@@ -378,8 +381,58 @@ Total 5 hours (UTC+0800):
 
 Template: [Holiday](Templates/Templates/Holiday-v2.md)
 
-Note: Homeland trip.
+Note: Journey to Hometown!
 
 Total 0 hours (UTC+0800):
 
 - [ ] 00:00 - 24:00
+
+## 2025-01-17 (Friday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 9 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 09:00 - 10:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (4 hours):
+  - [x] 19:00 - 20:00
+  - [x] 20:00 - 21:00
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
+
+## 2025-01-18 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 11:00 - 12:00
+- [x] 22:00 - 23:00
+
+## 2025-01-19 (Sunday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 11:00 - 12:00
+- [x] 21:00 - 22:00
