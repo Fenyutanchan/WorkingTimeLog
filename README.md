@@ -11,15 +11,16 @@ Check Status (UTC+0800):
 - Morning (2 hours):
   - Oversleeping: 09:00 - 10:00
   - [x] Check-in: 10:00
-  - [ ] Check-out: 12:00
+  - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [ ] Check-in: 14:30
   - [ ] Check-out: 17:30
 
 Total 2 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 09:00 - 10:00
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
 
 - Afternoon (0 hours):
   - [ ] 14:00 - 15:00
@@ -36,7 +37,7 @@ Total 2 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 76 hours:
+Total 80 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
 - [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
@@ -55,6 +56,8 @@ Total 76 hours:
 - [x] [2025-01-15 (Wed.)](#2025-01-15-wednesday): 5 hours
 - [ ] [2025-01-16 (Thu.)](#2025-01-16-thursday): 0 hours
 - [x] [2025-01-17 (Fri.)](#2025-01-17-friday): 9 hours
+- [x] [2025-01-18 (Sat.)](#2025-01-18-saturday): 2 hours
+- [x] [2025-01-19 (Sun.)](#2025-01-19-sunday): 2 hours
 
 ## 2025-01-01 (Wednesday)
 
