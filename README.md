@@ -13,7 +13,7 @@ Check Status (UTC+0800):
   - [x] Check-in: 10:00
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:00
+  - [x] Check-in: 14:30
   - [ ] Check-out: 17:30
 
 Total 0 hours (UTC+0800):
@@ -453,7 +453,7 @@ Check Status (UTC+0800):
 - Afternoon (3 hours):
   - Passport Application: 14:00 - 15:00
   - [x] Check-in: 15:00
-  - [x] Check-out: 17:30
+  - [x] Check-out: 17:00
 
 Total 6 hours (UTC+0800):
 
