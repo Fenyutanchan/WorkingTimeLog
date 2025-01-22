@@ -8,28 +8,29 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (2 hours):
-  - Oversleeping: 09:00 - 10:00
-  - [x] Check-in: 10:00
-  - [x] Check-out: 12:00
+- Morning (3 hours):
+  - [x] Check-in: 08:30
+  - [x] Check-out: 11:30
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 5 hours (UTC+0800):
+Total 3 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+- Morning (3 hours):
+  - [x] 08:30 - 09:30
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
 
-- Afternoon (3 hours):
-  - [x] 14:40 - 15:40
-  - [x] 15:40 - 16:40
-  - [x] 16:40 - 17:40
+- Afternoon (0 hours):
+  - [ ] 14:40 - 15:40
+  - [ ] 15:40 - 16:40
+  - [ ] 16:40 - 17:40
 
 - Evening (0 hours):
-  - [ ] 20:00 - 21:00
-  - [ ] 21:00 - 22:00
+  - [ ] 19:20 - 20:20
+  - [ ] 21:20 - 22:20
+  - [ ] 22:20 - 23:20
 
 # Previous Logs
 
@@ -37,7 +38,7 @@ Total 5 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 86 hours:
+Total 94 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
 - [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
@@ -59,6 +60,7 @@ Total 86 hours:
 - [x] [2025-01-18 (Sat.)](#2025-01-18-saturday): 2 hours
 - [x] [2025-01-19 (Sun.)](#2025-01-19-sunday): 2 hours
 - [x] [2025-01-20 (Mon.)](#2025-01-20-monday): 6 hours
+- [x] [2025-01-21 (Tue.)](#2025-01-21-tuesday): 8 hours
 
 ## 2025-01-01 (Wednesday)
 
@@ -469,3 +471,33 @@ Total 6 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 20:00 - 21:00
   - [x] 21:00 - 22:00
+
+## 2025-01-21 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - Oversleeping: 09:00 - 10:00
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 8 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 14:40 - 15:40
+  - [x] 15:40 - 16:40
+  - [x] 16:40 - 17:40
+
+- Evening (3 hours):
+  - [x] 19:20 - 20:20
+  - [x] 21:20 - 22:20
+  - [x] 22:20 - 23:20
