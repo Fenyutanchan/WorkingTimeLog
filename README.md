@@ -2,34 +2,32 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-01-23 (Thursday)
+# Today 2025-01-24 (Friday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (2 hours):
-  - Oversleeping: 09:00 - 10:00
-  - [x] Check-in: 10:00
-  - [x] Check-out: 12:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - Rest: 14:00 - 16:00
-  - [x] Check-in: 16:00
+  - [ ] Check-in: 14:30
   - [ ] Check-out: 17:30
 
-Total 3 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
 
-- Afternoon (0 hour):
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
+  - [ ] 19:00 - 20:00
   - [ ] 20:00 - 21:00
-  - [ ] 21:50 - 22:50
-  - [ ] 23:00 - 24:00
 
 # Previous Logs
 
@@ -37,7 +35,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-01
 
-Total 102 hours:
+Total 105 hours:
 
 - [x] [2025-01-01 (Wed.)](#2025-01-01-wednesday): 3 hours
 - [x] [2025-01-02 (Thu.)](#2025-01-02-thursday): 6 hours
@@ -61,6 +59,7 @@ Total 102 hours:
 - [x] [2025-01-20 (Mon.)](#2025-01-20-monday): 6 hours
 - [x] [2025-01-21 (Tue.)](#2025-01-21-tuesday): 8 hours
 - [x] [2025-01-22 (Wed.)](#2025-01-22-wednesday): 8 hours
+- [x] [2025-01-23 (Thu.)](#2025-01-23-thursday): 3 hours
 
 ## 2025-01-01 (Wednesday)
 
@@ -531,3 +530,15 @@ Total 8 hours (UTC+0800):
   - [x] 20:00 - 21:00
   - [x] 21:50 - 22:50
   - [x] 23:00 - 24:00
+
+## 2025-01-23 (Thursday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Personal Reason!
+
+Total 3 hours (UTC+0800):
+
+- [x] 10:00 - 11:00
+- [x] 11:00 - 12:00
+- [x] 16:00 - 17:00
