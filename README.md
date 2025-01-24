@@ -12,9 +12,10 @@ Check Status (UTC+0800):
   - [x] Check-in: 09:00
   - [x] Check-out: 10:00
   - Early Check-out for Personal Reasons: 10:00 - 12:00
-- Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+- Afternoon (2 hours):
+  - Late Check-in for Personal Reasons: 14:40 - 16:40
+  - [x] Check-in: 15:40
+  - [ ] Check-out: 17:40
 
 Total 1 hour (UTC+0800):
 
@@ -22,9 +23,8 @@ Total 1 hour (UTC+0800):
   - [x] 09:00 - 10:00
 
 - Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
+  - [ ] 15:40 - 16:40
+  - [ ] 16:40 - 17:40
 
 - Evening (0 hours):
   - [ ] 19:00 - 20:00
