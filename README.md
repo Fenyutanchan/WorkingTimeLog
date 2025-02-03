@@ -13,7 +13,7 @@ Check Status (UTC+0800):
   - [x] Check-in: 10:00
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
+  - [x] Check-in: 14:30
   - [ ] Check-out: 17:30
 
 Total 1 hours (UTC+0800):
