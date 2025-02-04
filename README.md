@@ -9,17 +9,18 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 Check Status (UTC+0800):
 
 - Morning (2 hours):
-  - Oversleeping: 09:00 - 10:00
+  - Oversleeping: 08:30 - 09:30
   - [x] Check-in: 09:30
-  - [ ] Check-out: 11:30
+  - [x] Check-out: 11:30
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
+  - [x] Check-in: 14:30
   - [ ] Check-out: 17:30
 
-Total 0 hours (UTC+0800):
+Total 2 hours (UTC+0800):
 
-- Morning (0 hour):
-  - [ ] 09:40 - 10:40
+- Morning (2 hours):
+  - [x] 09:40 - 10:40
+  - [x] 10:40 - 11:40
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
