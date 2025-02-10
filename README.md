@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-02-09 (Sunday)
+# Today 2025-02-10 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -13,7 +13,7 @@ Check Status (UTC+0800):
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
   - [x] Check-in: 14:00
-  - [ ] Check-out: 17:00
+  - [x] Check-out: 17:00
 
 Total 2 hours (UTC+0800):
 
@@ -21,10 +21,10 @@ Total 2 hours (UTC+0800):
   - [x] 09:30 - 10:30
   - [x] 10:30 - 11:30
 
-- Afternoon (0 hours):
-  - [ ] 14:20 - 15:20
-  - [ ] 15:20 - 16:20
-  - [ ] 16:20 - 17:20
+- Afternoon (3 hours):
+  - [x] 14:20 - 15:20
+  - [x] 15:20 - 16:20
+  - [x] 16:20 - 17:20
 
 - Evening (0 hours):
   - [ ] 19:00 - 20:00
