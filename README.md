@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-02-18 (Tuesday)
+# Today 2025-02-19 (Wednesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -10,23 +10,21 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
-- Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [ ] Check-out: 12:00
+- Afternoon (1 hour):
+  - [ ] Check-in: 13:30
+  - [ ] Check-out: 14:30
 
-Total 7 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 09:00 - 10:00
-  - [x] 10:00 - 11:00
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
 
-- Afternoon (0 hours):
-  - [ ] 14:30 - 15:30
-  - [ ] 15:30 - 16:30
-  - [ ] 16:30 - 17:30
+- Afternoon (1 hour):
+  - [ ] 13:30 - 14:30
 
-- Evening (0 hour):
+- Evening (2 hours):
   - [ ] 21:40 - 22:40
   - [ ] 22:40 - 23:40
 
@@ -37,7 +35,7 @@ Total 7 hours (UTC+0800):
 
 # Logs of 2025-02
 
-Total 59 hours:
+Total 64 hours:
 
 - [ ] [2025-02-01 (Sat.)](#2025-02-01-saturday): 0 hours
 - [ ] [2025-02-02 (Sun.)](#2025-02-02-sunday): 0 hours
@@ -56,6 +54,7 @@ Total 59 hours:
 - [ ] [2025-02-15 (Sat.)](#2025-02-15-saturday): 0 hours
 - [x] [2025-02-16 (Sun.)](#2025-02-16-sunday): 2 hours
 - [x] [2025-02-17 (Mon.)](#2025-02-17-monday): 7 hours
+- [x] [2025-02-18 (Tue.)](#2025-02-18-tuesday): 5 hours
 
 ## 2025-02-01 (Saturday)
 
@@ -387,3 +386,25 @@ Total 7 hours (UTC+0800):
 - Evening (2 hour):
   - [x] 21:40 - 22:40
   - [x] 22:40 - 23:40
+
+## 2025-02-18 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (1 hour):
+  - [x] Check-in: 13:30
+  - [x] Check-out: 14:30
+  - Appointment for iPhone Repair: 14:30 - 16:30
+
+Total 5 hours (UTC+0800):
+
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+  - [x] 13:30 - 14:30
+  - [ ] 21:40 - 22:40
+  - [ ] 22:40 - 23:40
