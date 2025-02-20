@@ -12,8 +12,8 @@ Check Status (UTC+0800):
   - [x] Check-in: 09:00
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 15:00
-  - [ ] Check-out: 18:00
+  - [x] Check-in: 14:00
+  - [ ] Check-out: 17:00
 
 Total 3 hours (UTC+0800):
 
@@ -38,7 +38,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-02
 
-Total 69 hours:
+Total 68 hours:
 
 - [ ] [2025-02-01 (Sat.)](#2025-02-01-saturday): 0 hours
 - [ ] [2025-02-02 (Sun.)](#2025-02-02-sunday): 0 hours
@@ -57,7 +57,7 @@ Total 69 hours:
 - [ ] [2025-02-15 (Sat.)](#2025-02-15-saturday): 0 hours
 - [x] [2025-02-16 (Sun.)](#2025-02-16-sunday): 2 hours
 - [x] [2025-02-17 (Mon.)](#2025-02-17-monday): 7 hours
-- [x] [2025-02-18 (Tue.)](#2025-02-18-tuesday): 5 hours
+- [x] [2025-02-18 (Tue.)](#2025-02-18-tuesday): 4 hours
 - [x] [2025-02-19 (Wed.)](#2025-02-19-wednesday): 5 hours
 
 ## 2025-02-01 (Saturday)
@@ -405,13 +405,12 @@ Check Status (UTC+0800):
   - [x] Check-out: 14:30
   - Appointment for iPhone Repair: 14:30 - 16:30
 
-Total 5 hours (UTC+0800):
+Total 4 hours (UTC+0800):
 
   - [x] 09:00 - 10:00
   - [x] 10:00 - 11:00
   - [x] 13:30 - 14:30
-  - [ ] 21:40 - 22:40
-  - [ ] 22:40 - 23:40
+  - [x] 21:20 - 22:20
 
 ## 2025-02-19 (Wednesday)
 
