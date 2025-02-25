@@ -2,16 +2,33 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-02-24 (Monday)
+# Today 2025-02-25 (Tuesday)
 
-Template: [Holiday](Templates/Holiday-v2.md)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
-Note: Personal Reasons!
+Check Status (UTC+0800):
 
-Total 2 hours (UTC+0800):
+- Morning (2 hours):
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 12:00
+- Afternoon (3 hours):
+  - [ ] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-- [x] 15:00 - 16:00
-- [x] 20:00 - 21:00
+Total 0 hours (UTC+0800):
+
+- Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
+
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+
+- Evening (0 hours):
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -45,6 +62,7 @@ Total 80 hours:
 - [x] [2025-02-21 (Fri.)](#2025-02-21-friday): 6 hours
 - [ ] [2025-02-22 (Sat.)](#2025-02-22-saturday): 0 hours
 - [ ] [2025-02-23 (Sun.)](#2025-02-23-sunday): 0 hours
+- [x] [2025-02-24 (Mon.)](#2025-02-24-monday): 2 hours
 
 ## 2025-02-01 (Saturday)
 
@@ -494,3 +512,14 @@ Note: Weekend!
 Total 0 hours (UTC+0800):
 
 - [ ] 00:00 - 24:00
+
+## 2025-02-24 (Monday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Trip to Beijing!
+
+Total 2 hours (UTC+0800):
+
+- [x] 15:00 - 16:00
+- [x] 20:00 - 21:00
