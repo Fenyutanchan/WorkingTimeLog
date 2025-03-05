@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-03-04 (Tuesday)
+# Today 2025-03-05 (Wednesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -10,22 +10,22 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 13:30
-  - [x] Check-out: 16:30
+  - [ ] Check-in: 13:30
+  - [ ] Check-out: 16:30
 
-Total 6 hours (UTC+0800):
+Total 9 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
-  - [x] 11:30 - 12:30
+- Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
-- Afternoon (3 hours):
-  - [x] 13:30 - 14:30
-  - [x] 14:30 - 15:30
-  - [x] 15:30 - 16:30
+- Afternoon (0 hours):
+  - [ ] 13:30 - 14:30
+  - [ ] 14:30 - 15:30
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
 
 - Evening (0 hours):
   - [ ] 21:00 - 22:00
@@ -38,11 +38,12 @@ Total 6 hours (UTC+0800):
 
 # Logs of 2025-03
 
-Total 7 hours:
+Total 16 hours:
 
 - [ ] [2025-03-01 (Sat.)](#2025-02-01-saturday): 0 hours
 - [ ] [2025-03-02 (Sun.)](#2025-02-02-sunday): 0 hours
 - [x] [2025-03-03 (Mon.)](#2025-02-03-monday): 7 hours
+- [x] [2025-03-04 (Tue.)](#2025-02-04-tuesday): 9 hours
 
 ## 2025-03-01 (Saturday)
 
@@ -87,6 +88,36 @@ Total 7 hours (UTC+0800):
   - [x] 14:30 - 15:30
   - [x] 15:30 - 16:30
   - [x] 17:00 - 18:00
+
+- Evening (2 hours):
+  - [x] 21:00 - 22:00
+  - [x] 22:00 - 23:00
+
+## 2025-03-04 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 13:30
+  - [x] Check-out: 16:30
+
+Total 9 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (4 hours):
+  - [x] 13:30 - 14:30
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
 
 - Evening (2 hours):
   - [x] 21:00 - 22:00
