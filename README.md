@@ -2,32 +2,32 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-03-07 (Friday)
+# Today 2025-03-10 (Monday)
 
-Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-note)
 
 Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
   - [x] Check-out: 12:00
-- Afternoon (2 hours):
-  - [x] Check-in: 16:00
-  - [x] Check-out: 18:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [ ] Check-out: 17:30
 
-Total 6 hours (UTC+0800):
+Total 1 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+- Morning (1 hour):
+  - [x] 10:30 - 11:30
 
-- Afternoon (2 hours):
-  - [x] 16:00 - 17:00
-  - [x] 17:30 - 18:30
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
 
-- Evening (2 hours):
-  - [x] 21:30 - 22:30
-  - [x] 22:00 - 23:00
+- Evening (0 hours):
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -36,13 +36,17 @@ Total 6 hours (UTC+0800):
 
 # Logs of 2025-03
 
-Total 23 hours:
+Total 41 hours:
 
 - [ ] [2025-03-01 (Sat.)](#2025-02-01-saturday): 0 hours
 - [ ] [2025-03-02 (Sun.)](#2025-02-02-sunday): 0 hours
 - [x] [2025-03-03 (Mon.)](#2025-02-03-monday): 7 hours
 - [x] [2025-03-04 (Tue.)](#2025-02-04-tuesday): 9 hours
 - [x] [2025-03-05 (Wed.)](#2025-02-05-wednesday): 7 hours
+- [x] [2025-03-06 (Thu.)](#2025-02-06-thursday): 7 hours
+- [x] [2025-03-07 (Fri.)](#2025-02-07-friday): 6 hours
+- [x] [2025-03-08 (Sat.)](#2025-02-08-saturday): 3 hours
+- [x] [2025-03-09 (Sun.)](#2025-02-09-sunday): 2 hours
 
 ## 2025-03-01 (Saturday)
 
@@ -177,3 +181,53 @@ Total 7 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
+
+## 2025-03-07 (Friday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (2 hours):
+  - [x] Check-in: 16:00
+  - [x] Check-out: 18:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (2 hours):
+  - [x] 16:00 - 17:00
+  - [x] 17:30 - 18:30
+
+- Evening (2 hours):
+  - [x] 21:30 - 22:30
+  - [x] 22:00 - 23:00
+
+## 2025-03-08 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 3 hours (UTC+0800):
+
+- [x] 10:00 - 11:00
+- [x] 11:00 - 12:00
+- [x] 20:30 - 21:30
+
+## 2025-03-09 (Sunday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 10:30 - 11:30
+- [x] 23:00 - 24:00
