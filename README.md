@@ -2,32 +2,32 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-03-26 (Wednesday)
+# Today 2025-03-27 (Thursday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (2 hours):
-  - [x] Check-in: 10:30
-  - [x] Check-out: 12:30
+  - [x] Check-in: 10:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
-  - [ ] Check-out: 17:00
+  - [ ] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
-Total 1 hour (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (1 hour):
-  - [x] 11:00 - 12:00
+- Morning (0 hours):
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
-- Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
+- Afternoon (3 hours):
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
-- Evening (0 hours):
+- Evening (1 hour):
   - [ ] 21:00 - 22:00
-  - [ ] 22:00 - 23:00
 
 # Previous Logs
 
@@ -36,7 +36,7 @@ Total 1 hour (UTC+0800):
 
 # Logs of 2025-03
 
-Total 130 hours:
+Total 135 hours:
 
 - [ ] [2025-03-01 (Sat.)](#2025-03-01-saturday): 0 hours
 - [ ] [2025-03-02 (Sun.)](#2025-03-02-sunday): 0 hours
@@ -63,6 +63,7 @@ Total 130 hours:
 - [x] [2025-03-23 (Sun.)](#2025-03-23-sunday): 5 hours
 - [x] [2025-03-24 (Mon.)](#2025-03-24-monday): 7 hours
 - [x] [2025-03-25 (Tue.)](#2025-03-25-tuesday): 6 hours
+- [x] [2025-03-26 (Wed.)](#2025-03-26-wednesday): 5 hours
 
 ## 2025-03-01 (Saturday)
 
@@ -625,3 +626,29 @@ Total 6 hours (UTC+0800):
   - [x] 20:00 - 21:00
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
+
+## 2025-03-26 (Wednesday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - [x] Check-in: 10:30
+  - [x] Check-out: 12:30
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 5 hours (UTC+0800):
+
+- Morning (1 hour):
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (1 hour):
+  - [x] 21:00 - 22:00
