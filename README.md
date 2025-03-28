@@ -2,32 +2,31 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-03-27 (Thursday)
+# Today 2025-03-28 (Friday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (2 hours):
-  - [x] Check-in: 10:00
+- Morning (3 hours):
+  - [x] Check-in: 09:00
   - [x] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
-  - [x] Check-out: 18:00
+  - [ ] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
-Total 5 hours (UTC+0800):
+Total 2 hours (UTC+0800):
 
 - Morning (2 hours):
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+  - [x] 09:00 - 10:00
+  - [x] 10:30 - 11:30
 
-- Afternoon (3 hours):
-  - [x] 15:00 - 16:00
-  - [x] 16:00 - 17:00
-  - [x] 17:00 - 18:00
+- Afternoon (0 hours):
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
-- Evening (0 hour):
-  - [ ] 21:00 - 22:00
+- Evening (0 hours):
 
 # Previous Logs
 
@@ -36,7 +35,7 @@ Total 5 hours (UTC+0800):
 
 # Logs of 2025-03
 
-Total 135 hours:
+Total 140 hours:
 
 - [ ] [2025-03-01 (Sat.)](#2025-03-01-saturday): 0 hours
 - [ ] [2025-03-02 (Sun.)](#2025-03-02-sunday): 0 hours
@@ -64,6 +63,7 @@ Total 135 hours:
 - [x] [2025-03-24 (Mon.)](#2025-03-24-monday): 7 hours
 - [x] [2025-03-25 (Tue.)](#2025-03-25-tuesday): 6 hours
 - [x] [2025-03-26 (Wed.)](#2025-03-26-wednesday): 5 hours
+- [x] [2025-03-27 (Thu.)](#2025-03-27-thursday): 5 hours
 
 ## 2025-03-01 (Saturday)
 
@@ -652,3 +652,29 @@ Total 5 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 21:00 - 22:00
+
+## 2025-03-27 (Thursday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (2 hours):
+  - [x] Check-in: 10:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 5 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (0 hours):
