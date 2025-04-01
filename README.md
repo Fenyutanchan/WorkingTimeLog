@@ -10,18 +10,18 @@ Check Status (UTC+0800):
 
 - Morning (0 hours):
   - Doctor Appointment
-- Afternoon (3 hours):
+- Afternoon (4 hours):
   - [x] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [x] Check-out: 18:30
 
 Total 7 hours (UTC+0800):
 
 - Morning (0 hours):
 
-- Afternoon (0 hours):
-  - [ ] 15:00 - 16:00
-  - [ ] 16:00 - 17:00
-  - [ ] 17:00 - 18:00
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:30 - 18:30
 
 - Evening (2 hours):
   - [ ] 20:30 - 21:30
