@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-05-08 (Thursday)
+# Today 2025-05-09 (Friday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -10,23 +10,23 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
-  - [x] Check-out: 18:00
+  - [ ] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
-Total 4 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 09:00 - 10:00
-  - [x] 10:00 - 11:00
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
 
-- Afternoon (2 hours):
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
+- Afternoon (0 hours):
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
 
-- Evening (0 hours):
-  - [ ] 19:00 - 20:00
+- Evening (0 hour):
+  - [ ] 22:00 - 23:00
 
 # Previous Logs
 
@@ -35,7 +35,7 @@ Total 4 hours (UTC+0800):
 
 # Logs of 2025-05
 
-Total 6 hours:
+Total 23 hours:
 
 - [x] [2025-05-01 (Thu.)](#2025-05-01-thursday): 4 hours
 - [x] [2025-05-02 (Fri.)](#2025-05-02-friday): 2 hours
@@ -44,6 +44,7 @@ Total 6 hours:
 - [ ] [2025-05-05 (Mon.)](#2025-05-05-monday): 0 hours
 - [x] [2025-05-06 (Tue.)](#2025-05-06-tuesday): 6 hours
 - [x] [2025-05-07 (Wed.)](#2025-05-07-wednesday): 6 hours
+- [x] [2025-05-08 (Thu.)](#2025-05-08-thursday): 5 hours
 
 ## 2025-05-01 (Thursday)
 
@@ -152,3 +153,29 @@ Total 6 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 19:00 - 20:00
+
+## 2025-05-08 (Thursday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 5 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+
+- Afternoon (2 hours):
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (1 hour):
+  - [x] 22:00 - 23:00
