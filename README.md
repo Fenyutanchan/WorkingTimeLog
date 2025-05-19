@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-05-14 (Wednesday)
+# Today 2025-05-19 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -10,25 +10,25 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:30
-  - [x] Check-out: 12:30
+  - [ ] Check-out: 12:30
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
+  - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
 
-Total 3 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
-  - [x] 11:30 - 12:30
+- Morning (0 hours):
+  - [ ] 09:30 - 10:30
+  - [ ] 10:30 - 11:30
+  - [ ] 11:30 - 12:30
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
 
 - Evening (0 hours):
-  - [ ] 21:00 - 22:00
-  - [ ] 22:00 - 23:00
+  - [ ] 19:00 - 20:00
+  - [ ] 20:00 - 21:00
 
 # Previous Logs
 
@@ -37,7 +37,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-05
 
-Total 37 hours:
+Total 49 hours:
 
 - [x] [2025-05-01 (Thu.)](#2025-05-01-thursday): 4 hours
 - [x] [2025-05-02 (Fri.)](#2025-05-02-friday): 2 hours
@@ -52,6 +52,11 @@ Total 37 hours:
 - [x] [2025-05-11 (Sun.)](#2025-05-11-sunday): 2 hours
 - [x] [2025-05-12 (Mon.)](#2025-05-12-monday): 6 hours
 - [x] [2025-05-13 (Tue.)](#2025-05-13-tuesday): 6 hours
+- [x] [2025-05-14 (Wed.)](#2025-05-14-wednesday): 4 hours
+- [x] [2025-05-15 (Thu.)](#2025-05-15-thursday): 2 hours
+- [x] [2025-05-16 (Fri.)](#2025-05-16-friday): 3 hours
+- [x] [2025-05-17 (Sat.)](#2025-05-17-saturday): 1 hour
+- [x] [2025-05-18 (Sun.)](#2025-05-18-sunday): 2 hours
 
 ## 2025-05-01 (Thursday)
 
@@ -288,3 +293,72 @@ Total 6 hours (UTC+0800):
 - Evening (2 hours):
   - [x] 21:00 - 22:00
   - [x] 22:00 - 23:00
+
+## 2025-05-14 (Wednesday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:30
+  - [x] Check-out: 12:30
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 4 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (1 hour):
+  - [x] 16:00 - 17:00
+
+- Evening (0 hours):
+
+## 2025-05-15 (Thursday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Dentist Appointment!
+
+Total 2 hours (UTC+0800):
+
+- [x] 11:30 - 12:30
+- [x] 16:00 - 17:00
+
+## 2025-05-16 (Friday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Dentist Appointment!
+
+Total 3 hours (UTC+0800):
+
+- [x] 10:30 - 11:30
+- [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
+
+## 2025-05-17 (Saturday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 1 hour (UTC+0800):
+
+- [x] 22:00 - 23:00
+
+## 2025-05-18 (Sunday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 19:00 - 20:00
+- [x] 20:00 - 21:00
