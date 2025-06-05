@@ -9,22 +9,20 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+  - [x] Check-in: 09:30
+  - [ ] Check-out: 12:30
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
-  - [x] Check-out: 17:00
+  - [ ] Check-in: 14:00
+  - [ ] Check-out: 17:00
 
-Total 5 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (2 hours):
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
+- Morning (0 hours):
 
-- Afternoon (3 hours):
-  - [x] 14:00 - 15:00
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
+- Afternoon (0 hours):
+  - [ ] 14:00 - 15:00
+  - [ ] 15:30 - 16:30
+  - [ ] 16:30 - 17:30
 
 - Evening (0 hours):
 
@@ -35,11 +33,12 @@ Total 5 hours (UTC+0800):
 
 # Logs of 2025-06
 
-Total 23 hours:
+Total 29 hours:
 
 - [x] [2025-06-01 (Sun.)](#2025-06-01-sunday): 5 hours
 - [x] [2025-06-02 (Mon.)](#2025-06-02-monday): 6 hours
 - [x] [2025-06-03 (Tue.)](#2025-06-03-tuesday): 6 hours
+- [x] [2025-06-04 (Wed.)](#2025-06-04-wednesday): 6 hours
 
 ## 2025-06-01 (Sunday)
 
@@ -108,3 +107,30 @@ Total 6 hours (UTC+0800):
   - [x] 16:00 - 17:00
 
 - Evening (0 hours):
+
+## 2025-06-04 (Wednesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (1 hour):
+  - [x] 21:00 - 22:00
