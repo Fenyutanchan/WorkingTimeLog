@@ -2,32 +2,34 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-06-11 (Wednesday)
+# Today 2025-06-12 (Thursday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [ ] Check-out: 12:00
+  - [x] Check-in: 08:00
+  - [ ] Check-out: 11:00
 - Afternoon (3 hours):
-  - [ ] Check-in: 14:30
-  - [ ] Check-out: 17:30
+  - [ ] Check-in: 15:00
+  - [ ] Check-out: 17:00
 
 Total 0 hours (UTC+0800):
 
 - Morning (0 hours):
-  - [ ] 09:30 - 10:30
-  - [ ] 11:30 - 12:30
+  - [ ] 08:00 - 09:00
+  - [ ] 09:00 - 10:00
+  - [ ] 11:00 - 12:00
 
 - Afternoon (0 hours):
-  - [ ] 14:30 - 15:30
-  - [ ] 15:30 - 16:30
-  - [ ] 16:30 - 17:30
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
 - Evening (0 hour):
-  - [ ] 22:00 - 23:00
+  - [ ] 18:00 - 19:00
+  - [ ] 19:00 - 20:00
 
 # Previous Logs
 
@@ -36,7 +38,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2025-06
 
-Total 47 hours:
+Total 54 hours:
 
 - [x] [2025-06-01 (Sun.)](#2025-06-01-sunday): 5 hours
 - [x] [2025-06-02 (Mon.)](#2025-06-02-monday): 6 hours
@@ -48,6 +50,7 @@ Total 47 hours:
 - [ ] [2025-06-08 (Sun.)](#2025-06-08-sunday): 0 hours
 - [ ] [2025-06-09 (Mon.)](#2025-06-09-monday): 0 hours
 - [x] [2025-06-10 (Tue.)](#2025-06-10-tuesday): 6 hours
+- [x] [2025-06-11 (Wed.)](#2025-06-11-wednesday): 7 hours
 
 ## 2025-06-01 (Sunday)
 
@@ -254,3 +257,31 @@ Total 6 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:00 - 23:00
+
+## 2025-06-11 (Wednesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 7 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 09:30 - 10:30
+  - [x] 11:30 - 12:30
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (2 hour):
+  - [x] 18:00 - 19:00
+  - [x] 19:00 - 20:00
