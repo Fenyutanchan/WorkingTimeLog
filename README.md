@@ -8,26 +8,23 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
-- Morning (3 hours):
-  - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+- Morning (0 hours):
+  - Dentist Appointment
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
-  - [x] Check-out: 17:30
+  - [x] Check-in: 15:00
+  - [ ] Check-out: 18:00
 
-Total 6 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 09:00 - 10:00
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+- Morning (0 hours):
 
-- Afternoon (3 hours):
-  - [x] 14:30 - 15:30
-  - [x] 15:30 - 16:30
-  - [x] 16:30 - 17:30
+- Afternoon (0 hours):
+  - [ ] 15:00 - 16:00
+  - [ ] 16:00 - 17:00
+  - [ ] 17:00 - 18:00
 
 - Evening (0 hour):
+  - [x] 22:00 - 23:00
 
 # Previous Logs
 
@@ -36,7 +33,7 @@ Total 6 hours (UTC+0800):
 
 # Logs of 2025-06
 
-Total 54 hours:
+Total 73 hours:
 
 - [x] [2025-06-01 (Sun.)](#2025-06-01-sunday): 5 hours
 - [x] [2025-06-02 (Mon.)](#2025-06-02-monday): 6 hours
@@ -49,6 +46,11 @@ Total 54 hours:
 - [ ] [2025-06-09 (Mon.)](#2025-06-09-monday): 0 hours
 - [x] [2025-06-10 (Tue.)](#2025-06-10-tuesday): 6 hours
 - [x] [2025-06-11 (Wed.)](#2025-06-11-wednesday): 7 hours
+- [x] [2025-06-12 (Thu.)](#2025-06-12-thursday): 6 hours
+- [x] [2025-06-13 (Fri.)](#2025-06-13-friday): 6 hours
+- [ ] [2025-06-14 (Sat.)](#2025-06-14-saturday): 0 hours
+- [ ] [2025-06-15 (Sun.)](#2025-06-15-sunday): 0 hours
+- [x] [2025-06-16 (Mon.)](#2025-06-16-monday): 7 hours
 
 ## 2025-06-01 (Sunday)
 
@@ -357,3 +359,31 @@ Note: Weekend!
 Total 0 hours (UTC+0800):
 
 - [ ] 00:00 - 24:00
+
+## 2025-06-16 (Monday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 7 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (1 hour):
+  - [x] 22:00 - 23:00
