@@ -2,21 +2,25 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-06-16 (Monday)
+# Today 2025-06-18 (Wednesday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (0 hours):
-  - Dentist Appointment
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
+  - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
 
 Total 0 hours (UTC+0800):
 
 - Morning (0 hours):
+  - [ ] 09:30 - 10:30
+  - [ ] 10:30 - 11:30
+  - [ ] 11:30 - 12:30
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
@@ -24,7 +28,6 @@ Total 0 hours (UTC+0800):
   - [ ] 17:00 - 18:00
 
 - Evening (0 hour):
-  - [x] 22:00 - 23:00
 
 # Previous Logs
 
@@ -33,7 +36,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2025-06
 
-Total 73 hours:
+Total 79 hours:
 
 - [x] [2025-06-01 (Sun.)](#2025-06-01-sunday): 5 hours
 - [x] [2025-06-02 (Mon.)](#2025-06-02-monday): 6 hours
@@ -51,6 +54,7 @@ Total 73 hours:
 - [ ] [2025-06-14 (Sat.)](#2025-06-14-saturday): 0 hours
 - [ ] [2025-06-15 (Sun.)](#2025-06-15-sunday): 0 hours
 - [x] [2025-06-16 (Mon.)](#2025-06-16-monday): 7 hours
+- [ ] [2025-06-17 (Tue.)](#2025-06-17-tuesday): 6 hours
 
 ## 2025-06-01 (Sunday)
 
@@ -387,3 +391,29 @@ Total 7 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:00 - 23:00
+
+## 2025-06-17 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (0 hours):
+  - Dentist Appointment
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (0 hours):
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (3 hours):
+  - [x] 20:30 - 21:30
+  - [x] 21:30 - 22:30
+  - [x] 22:30 - 23:30
