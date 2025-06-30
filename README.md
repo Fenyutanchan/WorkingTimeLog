@@ -2,25 +2,25 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-06-24 (Tuesday)
+# Today 2025-06-30 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [x] Check-in: 08:00
-  - [x] Check-out: 11:00
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:30
+  - [ ] Check-in: 14:30
   - [ ] Check-out: 17:30
 
-Total 3 hours (UTC+0800):
+Total 6 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 08:00 - 09:00
-  - [x] 09:00 - 10:00
-  - [x] 10:00 - 11:00
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
 - Afternoon (0 hours):
   - [ ] 14:30 - 15:30
@@ -39,7 +39,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-06
 
-Total 109 hours:
+Total 128 hours:
 
 - [x] [2025-06-01 (Sun.)](#2025-06-01-sunday): 5 hours
 - [x] [2025-06-02 (Mon.)](#2025-06-02-monday): 6 hours
@@ -64,6 +64,12 @@ Total 109 hours:
 - [x] [2025-06-21 (Sat.)](#2025-06-21-saturday): 1 hour
 - [ ] [2025-06-22 (Sun.)](#2025-06-22-sunday): 0 hours
 - [x] [2025-06-23 (Mon.)](#2025-06-23-monday): 8 hours
+- [x] [2025-06-24 (Tue.)](#2025-06-24-tuesday): 6 hours
+- [x] [2025-06-25 (Wed.)](#2025-06-25-wednesday): 6 hours
+- [x] [2025-06-26 (Thu.)](#2025-06-26-thursday): 6 hours
+- [x] [2025-06-27 (Fri.)](#2025-06-27-friday): 1 hour
+- [ ] [2025-06-28 (Sat.)](#2025-06-28-saturday): 0 hours
+- [ ] [2025-06-29 (Sun.)](#2025-06-29-sunday): 0 hours
 
 ## 2025-06-01 (Sunday)
 
@@ -559,3 +565,113 @@ Total 8 hours (UTC+0800):
   - [x] 18:30 - 19:30
   - [x] 21:00 - 22:00
   - [x] 23:00 - 24:00
+
+## 2025-06-24 (Tuesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 08:00
+  - [x] Check-out: 11:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 6 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 08:00 - 09:00
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+
+- Afternoon (0 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (0 hour):
+
+## 2025-06-25 (Wednesday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (0 hours):
+  - Dentist Appointment
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (0 hours):
+
+- Afternoon (3 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (3 hours):
+  - [x] 19:00 - 20:00
+  - [x] 20:00 - 21:00
+  - [x] 22:00 - 23:00
+
+## 2025-06-26 (Thursday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:30
+  - [x] Check-out: 17:30
+
+Total 6 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (3 hours):
+  - [x] 14:30 - 15:30
+  - [x] 15:30 - 16:30
+  - [x] 16:30 - 17:30
+
+- Evening (0 hour):
+
+## 2025-06-27 (Friday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-note)
+
+Note: Trip.
+
+Total 1 hour (UTC+0800):
+
+- [x] 09:00 - 10:00
+
+## 2025-06-28 (Saturday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
+
+## 2025-06-29 (Sunday)
+
+Template: [Holiday](Templates/Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
