@@ -2,25 +2,25 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-07-04 (Friday)
+# Today 2025-07-07 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
 Check Status (UTC+0800):
 
 - Morning (3 hours):
-  - [x] Check-in: 08:30
-  - [x] Check-out: 11:30
+  - [x] Check-in: 09:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 15:00
+  - [ ] Check-in: 15:00
   - [ ] Check-out: 18:00
 
-Total 3 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 08:30 - 09:30
-  - [x] 09:30 - 10:30
-  - [x] 10:30 - 11:30
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
@@ -36,11 +36,14 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-07
 
-Total 19 hours:
+Total 25 hours:
 
 - [x] [2025-07-01 (Tue.)](#2025-07-01-tuesday): 6 hours
 - [x] [2025-07-02 (Wed.)](#2025-07-02-wednesday): 6 hours
 - [x] [2025-07-03 (Thu.)](#2025-07-03-thursday): 7 hours
+- [x] [2025-07-04 (Fri.)](#2025-07-04-friday): 6 hours
+- [ ] [2025-07-05 (Sat.)](#2025-07-05-saturday): 0 hours
+- [ ] [2025-07-06 (Sun.)](#2025-07-06-sunday): 0 hours
 
 ## 2025-07-01 (Tuesday)
 
@@ -122,3 +125,46 @@ Total 7 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:00 - 23:00
+
+## 2025-07-04 (Friday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 08:30
+  - [x] Check-out: 11:30
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 6 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 08:30 - 09:30
+  - [x] 09:30 - 10:30
+  - [x] 10:30 - 11:30
+
+- Afternoon (3 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+  - [x] 17:00 - 18:00
+
+- Evening (0 hours):
+
+## 2025-07-05 (Saturday)
+
+Template: [Holiday](Templates/Holiday-v2.md#holiday-template)
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
+
+## 2025-07-06 (Sunday)
+
+Template: [Holiday](Templates/Holiday-v2.md#holiday-template)
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
