@@ -9,18 +9,18 @@ Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 Check Status (UTC+0800):
 
 - Morning (2 hours):
-  - Uncomfortable, late check-in: 10:30
+  - Uncomfortable and late check-in: 10:30
   - [x] Check-in: 10:30
-  - [ ] Check-out: 12:30
+  - [x] Check-out: 12:30
 - Afternoon (3 hours):
-  - [ ] Check-in: 15:00
+  - [x] Check-in: 15:00
   - [ ] Check-out: 18:00
 
 Total 0 hours (UTC+0800):
 
-- Morning (0 hours):
-  - [ ] 10:30 - 11:30
-  - [ ] 11:30 - 12:30
+- Morning (2 hours):
+  - [x] 10:30 - 11:30
+  - [x] 11:30 - 12:30
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
