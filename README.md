@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-07-11 (Friday)
+# Today 2025-07-14 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -18,16 +18,15 @@ Check Status (UTC+0800):
 Total 0 hours (UTC+0800):
 
 - Morning (0 hours):
+  - [ ] 09:00 - 10:00
   - [ ] 10:00 - 11:00
   - [ ] 11:00 - 12:00
 
 - Afternoon (0 hours):
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
-  - [ ] 17:00 - 18:00
 
-- Evening (0 hour):
-  - [ ] 21:00 - 22:00
+- Evening (0 hours):
 
 # Previous Logs
 
@@ -36,7 +35,7 @@ Total 0 hours (UTC+0800):
 
 # Logs of 2025-07
 
-Total 44 hours:
+Total 48 hours:
 
 - [x] [2025-07-01 (Tue.)](#2025-07-01-tuesday): 6 hours
 - [x] [2025-07-02 (Wed.)](#2025-07-02-wednesday): 6 hours
@@ -48,6 +47,7 @@ Total 44 hours:
 - [x] [2025-07-08 (Tue.)](#2025-07-08-tuesday): 5 hours
 - [x] [2025-07-09 (Wed.)](#2025-07-09-wednesday): 6 hours
 - [x] [2025-07-10 (Thu.)](#2025-07-10-thursday): 2 hours
+- [x] [2025-07-11 (Fri.)](#2025-07-11-friday): 4 hours
 
 ## 2025-07-01 (Tuesday)
 
@@ -264,3 +264,48 @@ Total 2 hours (UTC+0800):
 
 - [x] 21:00 - 22:00
 - [x] 22:00 - 23:00
+
+## 2025-07-11 (Friday)
+
+Template: [Free](Templates/Free-v2.md#free-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 15:00
+  - [x] Check-out: 18:00
+
+Total 4 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (2 hours):
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (0 hours):
+
+## 2025-07-12 (Saturday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
+
+## 2025-07-13 (Sunday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 0 hours (UTC+0800):
+
+- [ ] 00:00 - 24:00
