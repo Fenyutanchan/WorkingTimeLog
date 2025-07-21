@@ -10,17 +10,18 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:30
-  - [ ] Check-out: 12:30
+  - [x] Check-out: 12:30
+- Afternoon (3 hours):
+  - [x] Check-in: 15:30
+  - [ ] Check-out: 18:30
+
+Total 2 hours (UTC+0800):
+
+- Morning (2 hours):
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
 - Afternoon (0 hours):
-
-Total 0 hours (UTC+0800):
-
-- Morning (0 hours):
-  - [ ] 10:00 - 11:00
-  - [ ] 11:00 - 12:00
-
-- Afternoon (0 hours):
-  - [ ] 14:00 - 15:00
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
 
@@ -55,8 +56,8 @@ Total 76 hours:
 - [x] [2025-07-16 (Wed.)](#2025-07-16-wednesday): 6 hours
 - [x] [2025-07-17 (Thu.)](#2025-07-17-thursday): 4 hours
 - [x] [2025-07-18 (Fri.)](#2025-07-18-friday): 4 hours
-- [ ] [2025-07-19 (Sat.)](#2025-07-19-saturday): 1 hour
-- [ ] [2025-07-20 (Sun.)](#2025-07-20-sunday): 1 hour
+- [x] [2025-07-19 (Sat.)](#2025-07-19-saturday): 1 hour
+- [x] [2025-07-20 (Sun.)](#2025-07-20-sunday): 1 hour
 
 ## 2025-07-01 (Tuesday)
 
