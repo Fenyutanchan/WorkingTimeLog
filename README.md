@@ -2,7 +2,7 @@
 
 I started logging my working hours in this repository on 2024-08-01.
 
-# Today 2025-07-25 (Friday)
+# Today 2025-07-28 (Monday)
 
 Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
 
@@ -10,25 +10,24 @@ Check Status (UTC+0800):
 
 - Morning (3 hours):
   - [x] Check-in: 09:00
-  - [x] Check-out: 12:00
+  - [ ] Check-out: 12:00
 - Afternoon (3 hours):
-  - [x] Check-in: 14:00
+  - [ ] Check-in: 14:00
   - [ ] Check-out: 17:00
 
-Total 3 hours (UTC+0800):
+Total 0 hours (UTC+0800):
 
-- Morning (3 hours):
-  - [x] 09:00 - 10:00
-  - [x] 10:00 - 11:00
-  - [x] 11:00 - 12:00
+- Morning (0 hours):
+  - [ ] 09:00 - 10:00
+  - [ ] 10:00 - 11:00
+  - [ ] 11:00 - 12:00
 
 - Afternoon (0 hours):
   - [ ] 14:00 - 15:00
   - [ ] 15:00 - 16:00
   - [ ] 16:00 - 17:00
 
-- Evening (1 hour):
-  - [ ] 22:00 - 23:00
+- Evening (0 hours):
 
 # Previous Logs
 
@@ -37,7 +36,7 @@ Total 3 hours (UTC+0800):
 
 # Logs of 2025-07
 
-Total 98 hours:
+Total 108 hours:
 
 - [x] [2025-07-01 (Tue.)](#2025-07-01-tuesday): 6 hours
 - [x] [2025-07-02 (Wed.)](#2025-07-02-wednesday): 6 hours
@@ -63,6 +62,9 @@ Total 98 hours:
 - [x] [2025-07-22 (Tue.)](#2025-07-22-tuesday): 5 hours
 - [x] [2025-07-23 (Wed.)](#2025-07-23-wednesday): 6 hours
 - [x] [2025-07-24 (Thu.)](#2025-07-24-thursday): 7 hours
+- [x] [2025-07-25 (Fri.)](#2025-07-25-friday): 6 hours
+- [x] [2025-07-26 (Sat.)](#2025-07-26-saturday): 2 hours
+- [x] [2025-07-27 (Sun.)](#2025-07-27-sunday): 2 hours
 
 ## 2025-07-01 (Tuesday)
 
@@ -568,3 +570,52 @@ Total 7 hours (UTC+0800):
 
 - Evening (1 hour):
   - [x] 22:00 - 23:00
+
+## 2025-07-25 (Friday)
+
+Template: [Normal](Templates/Normal-v2.md#normal-template-with-check-status)
+
+Check Status (UTC+0800):
+
+- Morning (3 hours):
+  - [x] Check-in: 09:00
+  - [x] Check-out: 12:00
+- Afternoon (3 hours):
+  - [x] Check-in: 14:00
+  - [x] Check-out: 17:00
+
+Total 3 hours (UTC+0800):
+
+- Morning (3 hours):
+  - [x] 09:00 - 10:00
+  - [x] 10:00 - 11:00
+  - [x] 11:00 - 12:00
+
+- Afternoon (0 hours):
+  - [x] 14:00 - 15:00
+  - [x] 15:00 - 16:00
+  - [x] 16:00 - 17:00
+
+- Evening (0 hours):
+
+## 2025-07-26 (Saturday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
+
+## 2025-07-27 (Sunday)
+
+Template: [Holiday](Templates/Holiday-v2.md)
+
+Note: Weekend!
+
+Total 2 hours (UTC+0800):
+
+- [x] 21:00 - 22:00
+- [x] 22:00 - 23:00
